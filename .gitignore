@@ -1,4 +1,6 @@
 # Ignore Environment File
 *.env
 
+config.py
+
 
