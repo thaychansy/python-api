@@ -1,559 +1,551 @@
 City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
-0,thompson,55.7435,-97.8558,8.09,87,light intensity drizzle,3.6,CA,2024-06-07
-1,bethel,41.3712,-73.414,25.2,65,clear sky,2.06,US,2024-06-07
-2,guerrero negro,27.9769,-114.0611,20.84,64,few clouds,8.47,MX,2024-06-07
-3,margaret river,-33.95,115.0667,12.41,89,broken clouds,3.66,AU,2024-06-07
-4,corowa,-36.0333,146.3833,8.65,74,clear sky,2.62,AU,2024-06-07
-5,adamstown,-25.066,-130.1015,23.04,78,overcast clouds,8.11,PN,2024-06-07
-6,bredasdorp,-34.5322,20.0403,9.66,83,clear sky,1.19,ZA,2024-06-07
-7,minot,48.2325,-101.2963,18.34,52,overcast clouds,2.57,US,2024-06-07
-8,avarua,-21.2078,-159.775,24.03,46,broken clouds,3.09,CK,2024-06-07
-9,blackmans bay,-43.0167,147.3167,4.74,93,broken clouds,1.35,AU,2024-06-07
-10,izberbash,42.5696,47.8645,22.03,76,overcast clouds,1.92,RU,2024-06-07
-11,vung tau,10.346,107.0843,27.91,79,overcast clouds,4.98,VN,2024-06-07
-12,fortaleza,-3.7227,-38.5247,28.07,78,clear sky,3.09,BR,2024-06-07
-13,nizhnesortymskiy,62.4397,71.7603,8.53,70,scattered clouds,2.72,RU,2024-06-07
-14,paracuru,-3.41,-39.0306,27.84,88,broken clouds,3.69,BR,2024-06-07
-15,kavieng,-2.5744,150.7967,28.58,72,broken clouds,0.98,PG,2024-06-07
-16,portland,45.5234,-122.6762,31.46,36,clear sky,5.14,US,2024-06-07
-17,tralee,52.2704,-9.7026,11.4,85,overcast clouds,3.91,IE,2024-06-07
-18,hermanus,-34.4187,19.2345,11.0,78,clear sky,3.71,ZA,2024-06-07
-19,vorgashor,67.5833,63.95,-1.22,93,overcast clouds,4.44,RU,2024-06-07
-20,ushtobe,45.2514,77.9838,21.28,28,overcast clouds,4.32,KZ,2024-06-07
-21,yellowknife,62.456,-114.3525,8.56,86,light rain,10.29,CA,2024-06-07
-22,laguna,38.421,-121.4238,36.71,35,clear sky,6.17,US,2024-06-07
-23,kuraymah,18.55,31.85,36.05,17,clear sky,3.2,SD,2024-06-07
-24,suva,-18.1416,178.4415,25.71,78,broken clouds,4.12,FJ,2024-06-07
-25,kailua-kona,19.6406,-155.9956,27.98,74,overcast clouds,3.6,US,2024-06-07
-26,ancud,-41.8697,-73.8203,11.77,94,overcast clouds,2.69,CL,2024-06-07
-27,port-aux-francais,-49.35,70.2167,5.96,97,light rain,12.18,TF,2024-06-07
-28,port mathurin,-19.6833,63.4167,23.55,77,clear sky,7.93,MU,2024-06-07
-29,sola,-13.8833,167.55,26.99,77,overcast clouds,9.68,VU,2024-06-07
-30,kristiansund,63.1115,7.732,11.36,69,broken clouds,2.06,NO,2024-06-07
-31,lashio,22.9333,97.75,20.57,99,overcast clouds,0.52,MM,2024-06-07
-32,krasnogvardeyskoye,45.8456,41.5186,18.1,74,scattered clouds,3.26,RU,2024-06-07
-33,osvaldo cruz,-21.7967,-50.8786,20.88,41,clear sky,2.96,BR,2024-06-07
-34,badger,64.8,-147.5333,21.31,34,scattered clouds,0.45,US,2024-06-07
-35,san antonio de pale,-1.4014,5.6325,24.57,81,scattered clouds,3.37,GQ,2024-06-07
-36,puerto natales,-51.7236,-72.4875,3.15,99,overcast clouds,1.27,CL,2024-06-07
-37,lerwick,60.1545,-1.1494,8.0,78,light rain,4.9,GB,2024-06-07
-38,pelabuhanratu,-6.9875,106.5514,24.71,86,scattered clouds,2.14,ID,2024-06-07
-39,dame-marie,18.5667,-74.4167,28.42,80,overcast clouds,2.51,HT,2024-06-07
-40,kijang,35.2442,129.2139,19.85,71,overcast clouds,2.27,KR,2024-06-07
-41,jamestown,42.097,-79.2353,17.79,71,broken clouds,6.69,US,2024-06-07
-42,shingu,33.7333,135.9833,21.77,73,overcast clouds,2.87,JP,2024-06-07
-43,kalmunai,7.4167,81.8167,26.55,82,overcast clouds,6.91,LK,2024-06-07
-44,hithadhoo,-0.6,73.0833,28.28,75,broken clouds,5.11,MV,2024-06-07
-45,tofol,5.3248,163.0078,28.88,79,light intensity shower rain,1.54,FM,2024-06-07
-46,kurchatov,51.6601,35.6521,16.23,91,few clouds,2.4,RU,2024-06-07
-47,klyuchi,52.2667,79.1667,16.43,92,overcast clouds,3.47,RU,2024-06-07
-48,hamilton,39.1834,-84.5333,26.47,40,scattered clouds,8.49,US,2024-06-07
-49,bodo,67.28,14.405,8.76,87,clear sky,3.6,NO,2024-06-07
-50,bilibino,68.0546,166.4372,5.96,37,clear sky,1.74,RU,2024-06-07
-51,waitangi,-43.9535,-176.5597,9.34,66,broken clouds,4.92,NZ,2024-06-07
-52,al kharijah,25.4514,30.5464,32.41,11,clear sky,3.84,EG,2024-06-07
-53,grytviken,-54.2811,-36.5092,-5.32,81,few clouds,5.14,GS,2024-06-07
-54,necochea,-38.5473,-58.7368,13.85,62,overcast clouds,2.22,AR,2024-06-07
-55,longyearbyen,78.2186,15.6401,6.91,61,clear sky,3.09,SJ,2024-06-07
-56,ilulissat,69.2167,-51.1,2.01,87,light intensity drizzle,2.06,GL,2024-06-07
-57,valparaiso,-33.0393,-71.6273,17.3,75,clear sky,1.03,CL,2024-06-07
-58,egilsstadir,65.2653,-14.3948,2.95,70,light rain,5.66,IS,2024-06-07
-59,paramonga,-10.6667,-77.8333,19.25,79,clear sky,3.54,PE,2024-06-07
-60,olonkinbyen,70.9221,-8.7187,0.53,90,overcast clouds,7.01,SJ,2024-06-07
-61,codrington,-38.2667,141.9667,8.62,92,overcast clouds,2.13,AU,2024-06-07
-62,kapa'a,22.0752,-159.319,28.99,75,clear sky,5.14,US,2024-06-07
-63,lata,40.1629,-8.3327,16.17,98,broken clouds,1.07,PT,2024-06-07
-64,cave creek,33.8333,-111.9508,42.12,11,few clouds,2.24,US,2024-06-07
-65,chibougamau,49.9168,-74.3659,18.79,72,scattered clouds,4.63,CA,2024-06-07
-66,anadyr,64.75,177.4833,4.28,75,broken clouds,3.0,RU,2024-06-07
-67,ribeira brava,32.65,-17.0667,21.11,83,scattered clouds,1.29,PT,2024-06-07
-68,port lincoln,-34.7333,135.8667,11.44,84,overcast clouds,3.77,AU,2024-06-07
-69,mantua,45.1667,10.7833,23.58,88,broken clouds,0.99,IT,2024-06-07
-70,whitehorse,60.7161,-135.0538,19.45,26,few clouds,1.34,CA,2024-06-07
-71,albany,42.6001,-73.9662,18.75,79,light rain,1.34,US,2024-06-07
-72,petropavlovsk-kamchatsky,53.0452,158.6483,19.33,50,clear sky,4.47,RU,2024-06-07
-73,coquimbo,-29.9533,-71.3436,11.85,100,mist,0.51,CL,2024-06-07
-74,vernon,50.2581,-119.2691,27.18,29,few clouds,2.24,CA,2024-06-07
-75,fortuna,40.5982,-124.1573,20.52,74,clear sky,6.17,US,2024-06-07
-76,edinburgh of the seven seas,-37.0676,-12.3116,14.32,72,overcast clouds,5.33,SH,2024-06-07
-77,sparti,37.0733,22.4297,24.97,52,clear sky,1.72,GR,2024-06-07
-78,iqaluit,63.7506,-68.5145,2.85,81,broken clouds,8.23,CA,2024-06-07
-79,ushuaia,-54.8,-68.3,2.81,70,clear sky,7.2,AR,2024-06-07
-80,lycksele,64.5954,18.6735,3.93,93,scattered clouds,1.54,SE,2024-06-07
-81,la passe,45.5549,-0.8967,20.13,86,overcast clouds,4.35,FR,2024-06-07
-82,oskarshamn,57.2645,16.4484,11.35,62,overcast clouds,3.18,SE,2024-06-07
-83,lazaro cardenas,17.9583,-102.2,28.51,64,scattered clouds,5.34,MX,2024-06-07
-84,weno,7.4515,151.8468,29.97,84,light rain,3.6,FM,2024-06-07
-85,sisimiut,66.9395,-53.6735,4.06,82,overcast clouds,1.58,GL,2024-06-07
-86,lebu,-37.6167,-73.65,13.97,96,light rain,2.72,CL,2024-06-07
-87,argo,37.6333,22.7333,24.39,49,clear sky,2.28,GR,2024-06-07
-88,paoua,7.2427,16.4406,21.64,94,moderate rain,1.95,CF,2024-06-07
-89,west island,-12.1568,96.8225,26.99,83,scattered clouds,5.14,CC,2024-06-07
-90,bantogon,6.5333,124.0333,26.99,79,broken clouds,0.89,PH,2024-06-07
-91,uturoa,-16.7333,-151.4333,26.23,80,light rain,4.14,PF,2024-06-07
-92,cidade velha,14.9167,-23.6167,23.26,78,few clouds,5.66,CV,2024-06-07
-93,praia da vitoria,38.7333,-27.0667,19.31,82,scattered clouds,3.92,PT,2024-06-07
-94,midvagur,62.0511,-7.1939,6.46,70,overcast clouds,3.6,FO,2024-06-07
-95,mount gambier,-37.8333,140.7667,10.99,83,overcast clouds,1.49,AU,2024-06-07
-96,fort bragg,35.139,-79.006,31.08,45,clear sky,4.63,US,2024-06-07
-97,sal rei,16.1833,-22.9167,22.48,85,clear sky,7.07,CV,2024-06-07
-98,tymovskoye,50.8456,142.655,11.4,96,overcast clouds,2.81,RU,2024-06-07
-99,putina,-15.4667,-69.4333,8.61,49,clear sky,5.25,PE,2024-06-07
-100,dalandzadgad,43.5708,104.425,21.56,14,broken clouds,2.61,MN,2024-06-07
-101,tolanaro,-25.0319,46.9987,21.04,68,few clouds,0.0,MG,2024-06-07
-102,georgetown,5.4112,100.3354,27.96,84,few clouds,1.03,MY,2024-06-07
-103,invercargill,-46.4,168.35,8.9,98,few clouds,0.89,NZ,2024-06-07
-104,qeshm,26.9581,56.2719,30.93,77,few clouds,4.29,IR,2024-06-07
-105,north bend,43.4065,-124.2243,26.8,67,clear sky,9.26,US,2024-06-07
-106,taroa,8.7058,171.2275,28.42,79,overcast clouds,5.25,MH,2024-06-07
-107,sittwe,20.15,92.9,25.88,92,overcast clouds,2.25,MM,2024-06-07
-108,nieuw amsterdam,5.8833,-55.0833,27.01,83,light rain,2.57,SR,2024-06-07
-109,cova figueira,14.8905,-24.2934,18.57,76,few clouds,4.85,CV,2024-06-07
-110,udachny,66.4167,112.4,11.36,50,overcast clouds,4.91,RU,2024-06-07
-111,chinde,26.8418,88.0763,18.56,75,clear sky,2.94,NP,2024-06-07
-112,papatowai,-46.5619,169.4708,9.91,81,few clouds,2.49,NZ,2024-06-07
-113,kavaratti,10.5669,72.642,27.08,87,overcast clouds,3.22,IN,2024-06-07
-114,villa juarez,24.6536,-107.5411,32.14,55,scattered clouds,4.12,MX,2024-06-07
-115,mamers,48.3333,0.25,15.48,95,broken clouds,2.73,FR,2024-06-07
-116,parabel',58.6978,81.4825,9.95,77,overcast clouds,2.68,RU,2024-06-07
-117,enewetak,11.3474,162.3373,28.29,82,light rain,7.65,MH,2024-06-07
-118,lorengau,-2.0226,147.2712,28.0,78,overcast clouds,1.48,PG,2024-06-07
-119,punta arenas,-53.15,-70.9167,4.06,100,overcast clouds,1.54,CL,2024-06-07
-120,akureyri,65.6835,-18.0878,1.96,93,overcast clouds,10.29,IS,2024-06-07
-121,miyaly,48.8844,53.7836,21.66,70,broken clouds,1.78,KZ,2024-06-07
-122,iranshahr,27.2025,60.6848,29.94,32,scattered clouds,1.33,IR,2024-06-07
-123,ribeira grande,38.5167,-28.7,19.87,87,light rain,6.71,PT,2024-06-07
-124,katsuren-haebaru,26.3369,127.8719,27.01,89,broken clouds,5.66,JP,2024-06-07
-125,black mountain,35.6179,-82.3212,25.61,46,clear sky,0.89,US,2024-06-07
-126,puerto ayora,-0.7393,-90.3518,21.97,97,light rain,0.89,EC,2024-06-07
-127,saudarkrokur,65.7461,-19.6394,2.02,100,overcast clouds,7.91,IS,2024-06-07
-128,prince rupert,54.3161,-130.3201,19.05,62,clear sky,5.14,CA,2024-06-07
-129,kodiak,57.79,-152.4072,6.73,87,light rain,5.14,US,2024-06-07
-130,port hueneme,34.1478,-119.1951,28.77,77,overcast clouds,4.63,US,2024-06-07
-131,vila franca do campo,37.7167,-25.4333,19.23,99,overcast clouds,1.47,PT,2024-06-07
-132,constantia,44.1833,28.65,17.61,71,clear sky,2.7,RO,2024-06-07
-133,borgarnes,64.5383,-21.9206,6.03,73,overcast clouds,2.28,IS,2024-06-07
-134,porbandar,21.6422,69.6093,28.91,79,clear sky,5.46,IN,2024-06-07
-135,atafu village,-8.5421,-172.5159,29.25,73,light rain,3.39,TK,2024-06-07
-136,carutapera,-1.195,-46.02,24.81,95,broken clouds,2.68,BR,2024-06-07
-137,malpe,13.35,74.7167,24.61,85,overcast clouds,1.66,IN,2024-06-07
-138,greenville,35.6127,-77.3663,30.97,43,clear sky,2.06,US,2024-06-07
-139,ta`u,-14.2336,-169.5144,27.43,65,few clouds,7.26,AS,2024-06-07
-140,lompoc,34.6391,-120.4579,27.79,78,mist,6.17,US,2024-06-07
-141,sirohi,24.8833,72.8667,29.41,63,clear sky,4.44,IN,2024-06-07
-142,altay,47.8667,88.1167,15.34,47,scattered clouds,3.05,CN,2024-06-07
-143,mahina,-17.5065,-149.489,28.87,74,light rain,7.2,PF,2024-06-07
-144,karratha,-20.7377,116.8463,17.05,48,clear sky,4.71,AU,2024-06-07
-145,arteche,12.2645,125.4048,28.34,79,scattered clouds,3.49,PH,2024-06-07
-146,pasacao,13.5118,123.0426,27.23,83,overcast clouds,2.45,PH,2024-06-07
-147,ambon,-3.6954,128.1814,26.71,15,moderate rain,1.03,ID,2024-06-07
-148,nago,26.5881,127.9761,26.24,88,overcast clouds,4.02,JP,2024-06-07
-149,cadale,2.7603,46.3222,26.27,86,overcast clouds,9.11,SO,2024-06-07
-150,jalai nur,49.45,117.7,10.11,82,overcast clouds,5.52,CN,2024-06-07
-151,qaqortoq,60.7167,-46.0333,2.22,98,moderate rain,2.47,GL,2024-06-07
-152,vadso,70.0744,29.7487,6.49,81,overcast clouds,11.83,NO,2024-06-07
-153,toliara,-23.35,43.6667,22.14,79,clear sky,0.65,MG,2024-06-07
-154,kingisepp,59.3733,28.6134,10.21,87,scattered clouds,0.34,RU,2024-06-07
-155,nagqu,31.5,92.0,4.58,82,overcast clouds,4.84,CN,2024-06-07
-156,tshikapa,-6.4167,20.8,26.92,53,broken clouds,0.8,CD,2024-06-07
-157,carnarvon,-24.8667,113.6333,22.31,76,clear sky,5.39,AU,2024-06-07
-158,east london,-33.0153,27.9116,14.8,76,light rain,1.7,ZA,2024-06-07
-159,olyokminsk,60.3736,120.4264,17.96,43,clear sky,0.84,RU,2024-06-07
-160,mount pearl,47.5166,-52.7813,13.25,87,few clouds,4.63,CA,2024-06-07
-161,oppdal,62.5943,9.6912,6.19,82,overcast clouds,1.46,NO,2024-06-07
-162,stara lubovna,49.2986,20.6862,10.99,95,clear sky,0.83,SK,2024-06-07
-163,lihue,21.9789,-159.3672,28.58,69,clear sky,5.14,US,2024-06-07
-164,port alfred,-33.5906,26.891,15.23,72,light rain,0.23,ZA,2024-06-07
-165,port saint john's,-31.6229,29.5448,15.28,82,light rain,3.41,ZA,2024-06-07
-166,shanhaiguan,39.9988,119.7564,18.5,79,few clouds,1.62,CN,2024-06-07
-167,una,20.8167,71.0333,29.06,75,overcast clouds,4.65,IN,2024-06-07
-168,kapuskasing,49.4169,-82.4331,16.05,82,light intensity shower rain,3.6,CA,2024-06-07
-169,machico,32.7,-16.7667,21.11,88,moderate rain,5.14,PT,2024-06-07
-170,utrik,11.2278,169.8474,28.37,79,overcast clouds,5.55,MH,2024-06-07
-171,saipan,15.1355,145.701,31.39,66,scattered clouds,5.14,MP,2024-06-07
-172,charters towers,-20.1,146.2667,14.74,45,clear sky,4.49,AU,2024-06-07
-173,northam,51.0333,-4.2167,13.12,90,broken clouds,3.6,GB,2024-06-07
-174,zhaotong,27.3167,103.7167,15.6,95,overcast clouds,1.38,CN,2024-06-07
-175,tucumcari,35.1717,-103.725,37.91,13,clear sky,12.35,US,2024-06-07
-176,myrina,39.8797,25.0742,22.58,68,clear sky,0.0,GR,2024-06-07
-177,bikenibeu village,1.3673,173.1241,28.98,84,scattered clouds,3.6,KI,2024-06-07
-178,smithers,54.7804,-127.1743,21.18,23,clear sky,0.0,CA,2024-06-07
-179,rawah,34.4816,41.9093,34.13,11,clear sky,2.7,IQ,2024-06-07
-180,aykhal,66.0,111.5,9.74,68,overcast clouds,5.97,RU,2024-06-07
-181,hargeysa,9.56,44.065,23.36,57,few clouds,10.16,SO,2024-06-07
-182,galliano,29.4422,-90.2992,34.0,51,clear sky,1.54,US,2024-06-07
-183,isafjordur,66.0755,-23.124,0.91,98,light snow,3.82,IS,2024-06-07
-184,prudentopolis,-25.2131,-50.9778,15.19,85,clear sky,0.43,BR,2024-06-07
-185,sinabang,2.4803,96.3801,26.05,81,overcast clouds,1.51,ID,2024-06-07
-186,cockburn town,21.4612,-71.1419,27.98,83,light rain,2.57,TC,2024-06-07
-187,vilyuchinsk,52.9306,158.4028,20.15,49,scattered clouds,2.44,RU,2024-06-07
-188,metlili chaamba,32.2667,3.6333,29.52,17,clear sky,2.06,DZ,2024-06-07
-189,tahla,34.0485,-4.428,18.54,74,overcast clouds,1.75,MA,2024-06-07
-190,tazovsky,67.4667,78.7,-0.01,92,overcast clouds,3.32,RU,2024-06-07
-191,sao felix do xingu,-6.6447,-51.995,28.39,56,broken clouds,1.43,BR,2024-06-07
-192,richards bay,-28.783,32.0377,18.73,62,light rain,7.27,ZA,2024-06-07
-193,ilanskiy,56.2358,96.065,11.82,73,overcast clouds,3.51,RU,2024-06-07
-194,bontang,0.1333,117.5,25.34,90,overcast clouds,2.46,ID,2024-06-07
-195,qamdo,31.1667,97.2333,7.16,66,broken clouds,1.75,CN,2024-06-07
-196,talnakh,69.4865,88.3972,-1.55,92,overcast clouds,3.95,RU,2024-06-07
-197,porto novo,6.4965,2.6036,27.9,84,overcast clouds,2.33,BJ,2024-06-07
-198,keflavik,64.0049,-22.5624,6.24,70,clear sky,6.17,IS,2024-06-07
-199,dryden,49.7833,-92.7503,20.16,37,broken clouds,6.17,CA,2024-06-07
-200,khamis mushait,18.3064,42.7292,23.34,53,clear sky,3.09,SA,2024-06-07
-201,novosibirsk,55.0411,82.9344,14.61,100,mist,2.0,RU,2024-06-07
-202,vila velha,-20.3297,-40.2925,21.97,94,few clouds,0.0,BR,2024-06-07
-203,monrovia,6.3005,-10.7969,24.87,87,light rain,3.18,LR,2024-06-07
-204,douentza,14.9951,-2.9517,31.25,42,light rain,1.66,ML,2024-06-07
-205,kodumudi,11.0775,77.8836,26.35,77,overcast clouds,5.86,IN,2024-06-07
-206,nar'yan-mar,67.6713,53.087,1.17,92,broken clouds,3.58,RU,2024-06-07
-207,marsabit,2.3284,37.9899,18.09,71,clear sky,8.32,KE,2024-06-07
-208,stanley,54.868,-1.6985,9.84,80,scattered clouds,6.17,GB,2024-06-07
-209,tartagal,-22.5164,-63.8013,20.75,66,clear sky,1.46,AR,2024-06-07
-210,adrar,20.5022,-10.0711,32.98,14,scattered clouds,4.89,MR,2024-06-07
-211,swakopmund,-22.6833,14.5333,19.9,34,clear sky,5.36,NA,2024-06-07
-212,kill devil hills,36.0307,-75.676,29.01,55,scattered clouds,3.09,US,2024-06-07
-213,el charco,2.4769,-78.1105,26.19,86,light rain,2.09,CO,2024-06-07
-214,vila do maio,15.1333,-23.2167,23.44,81,few clouds,6.31,CV,2024-06-07
-215,mancio lima,-7.6142,-72.8958,28.04,78,clear sky,0.0,BR,2024-06-07
-216,boujniba,32.9005,-6.7746,16.25,72,scattered clouds,6.28,MA,2024-06-07
-217,ilhabela,-23.7781,-45.3581,20.28,80,clear sky,2.02,BR,2024-06-07
-218,nazarovo,56.0064,90.3914,13.97,84,light rain,2.68,RU,2024-06-07
-219,chimore,-16.9833,-65.1333,24.1,68,few clouds,0.57,BO,2024-06-07
-220,kharagpur,22.3333,87.3333,30.47,60,scattered clouds,4.05,IN,2024-06-07
-221,strathfieldsaye,-36.8,144.3667,9.58,59,clear sky,2.08,AU,2024-06-07
-222,mili,6.0815,171.735,28.58,77,broken clouds,5.39,MH,2024-06-07
-223,ust-nera,64.5667,143.2,12.93,41,broken clouds,5.29,RU,2024-06-07
-224,sakaiminato,35.55,133.2333,22.99,64,broken clouds,1.54,JP,2024-06-07
-225,kenora,49.8167,-94.4337,19.54,42,broken clouds,3.6,CA,2024-06-07
-226,bayanhongor,46.7167,100.1167,10.94,33,broken clouds,1.45,MN,2024-06-07
-227,thunder bay,48.4001,-89.3168,19.99,42,broken clouds,5.66,CA,2024-06-07
-228,fuling,29.7022,107.3919,21.73,90,overcast clouds,0.26,CN,2024-06-07
-229,ulladulla,-35.35,150.4667,15.07,81,overcast clouds,5.57,AU,2024-06-07
-230,tiksi,71.6872,128.8694,3.78,72,clear sky,2.99,RU,2024-06-07
-231,minas de marcona,-15.2119,-75.1103,14.7,75,scattered clouds,3.31,PE,2024-06-07
-232,westport,41.1415,-73.3579,26.72,55,few clouds,3.6,US,2024-06-07
-233,tura,25.5198,90.2201,24.15,93,few clouds,3.33,IN,2024-06-07
-234,zuni pueblo,35.0725,-108.8506,30.35,22,overcast clouds,7.61,US,2024-06-07
-235,crane,31.3974,-102.3501,36.72,22,few clouds,10.2,US,2024-06-07
-236,luanda,-8.8368,13.2343,23.0,78,broken clouds,1.54,AO,2024-06-07
-237,bocana de paiwas,12.7857,-85.1227,27.89,81,light rain,2.21,NI,2024-06-07
-238,santiago del estero,-27.7951,-64.2615,22.25,52,broken clouds,2.02,AR,2024-06-07
-239,jinghong,21.991,100.7341,22.2,99,overcast clouds,0.27,CN,2024-06-07
-240,realeza,-25.7689,-53.5325,18.79,76,broken clouds,1.33,BR,2024-06-07
-241,xilin hot,43.9667,116.0333,17.42,24,broken clouds,2.98,CN,2024-06-07
-242,nova sintra,14.8667,-24.7167,24.73,79,scattered clouds,7.88,CV,2024-06-07
-243,sete,43.4018,3.6966,19.02,82,overcast clouds,1.82,FR,2024-06-07
-244,bardai,11.65,7.2333,21.48,88,moderate rain,4.73,NG,2024-06-07
-245,kone,-21.0595,164.8658,27.35,55,scattered clouds,3.97,NC,2024-06-07
-246,iwo,7.6333,4.1833,23.4,96,overcast clouds,1.85,NG,2024-06-07
-247,st. john's,47.5649,-52.7093,13.71,87,few clouds,4.63,CA,2024-06-07
-248,borogontsy,62.6683,131.1683,20.42,39,clear sky,1.56,RU,2024-06-07
-249,kruisfontein,-34.0033,24.7314,12.16,83,overcast clouds,1.7,ZA,2024-06-07
-250,college,64.8569,-147.8028,21.36,34,scattered clouds,0.89,US,2024-06-07
-251,conception bay south,47.4999,-52.9981,13.58,85,broken clouds,2.14,CA,2024-06-07
-252,cherepovets,59.1333,37.9,12.9,71,scattered clouds,0.0,RU,2024-06-07
-253,kirakira,-10.4544,161.9205,24.67,90,overcast clouds,2.55,SB,2024-06-07
-254,christchurch,-43.5333,172.6333,10.79,85,broken clouds,2.06,NZ,2024-06-07
-255,kirtipur,27.6667,85.2833,20.96,94,broken clouds,1.54,NP,2024-06-07
-256,wailua homesteads,22.0669,-159.378,28.25,75,clear sky,5.14,US,2024-06-07
-257,yarmouth,41.7057,-70.2286,22.3,90,fog,3.13,US,2024-06-07
-258,saint-denis,48.9167,2.3333,16.19,71,clear sky,3.09,FR,2024-06-07
-259,baruun-urt,46.6806,113.2792,15.77,37,clear sky,4.07,MN,2024-06-07
-260,harnosand,62.6323,17.9379,9.0,80,broken clouds,2.19,SE,2024-06-07
-261,sai buri,6.7013,101.6168,26.65,89,overcast clouds,2.02,TH,2024-06-07
-262,esperanza,19.5847,-70.9849,25.32,91,light rain,0.57,DO,2024-06-07
-263,bel ombre,-4.6167,55.4167,28.91,74,scattered clouds,4.63,SC,2024-06-07
-264,taulaga,-11.0553,-171.0883,27.91,80,light rain,6.44,AS,2024-06-07
-265,palu,-0.8917,119.8707,25.32,94,overcast clouds,1.02,ID,2024-06-07
-266,gadzhiyevo,69.2551,33.3362,9.05,62,broken clouds,5.01,RU,2024-06-07
-267,sidi yahia el gharb,34.3065,-6.3062,16.37,84,clear sky,1.49,MA,2024-06-07
-268,mossendjo,-2.9506,12.7261,20.73,83,overcast clouds,0.82,CG,2024-06-07
-269,quellon,-43.1167,-73.6167,11.01,98,light rain,4.19,CL,2024-06-07
-270,monjaras,13.2006,-87.3742,29.01,79,overcast clouds,4.17,HN,2024-06-07
-271,glace bay,46.1969,-59.957,15.05,85,scattered clouds,4.12,CA,2024-06-07
-272,gusinoozyorsk,51.2833,106.5,12.84,70,broken clouds,1.26,RU,2024-06-07
-273,tual,-5.6667,132.75,26.94,78,overcast clouds,10.1,ID,2024-06-07
-274,nuku'alofa,-21.1333,-175.2,26.19,69,light rain,6.17,TO,2024-06-07
-275,ambositra,-20.5167,47.25,11.01,97,scattered clouds,0.5,MG,2024-06-07
-276,pignon,19.3333,-72.1167,24.36,92,moderate rain,1.76,HT,2024-06-07
-277,hawaiian paradise park,19.5933,-154.9731,27.73,73,overcast clouds,3.6,US,2024-06-07
-278,rio gallegos,-51.6226,-69.2181,2.03,93,few clouds,2.57,AR,2024-06-07
-279,maintirano,-18.0667,44.0167,23.9,84,clear sky,2.09,MG,2024-06-07
-280,ocumare del tuy,10.1165,-66.7761,26.92,78,broken clouds,0.43,VE,2024-06-07
-281,rampachodavaram,17.45,81.7667,24.94,90,overcast clouds,0.33,IN,2024-06-07
-282,happy valley-goose bay,53.3168,-60.3315,19.17,63,few clouds,6.69,CA,2024-06-07
-283,la romana,18.4273,-68.9728,27.2,94,few clouds,4.12,DO,2024-06-07
-284,salekhard,66.53,66.6019,0.78,78,few clouds,3.13,RU,2024-06-07
-285,warrnambool,-38.3833,142.4833,9.05,88,overcast clouds,1.95,AU,2024-06-07
-286,pisco,-13.7,-76.2167,17.03,88,mist,1.54,PE,2024-06-07
-287,queenstown,-31.8976,26.8753,6.0,85,broken clouds,1.22,ZA,2024-06-07
-288,san clemente del tuyu,-36.3569,-56.7235,12.77,76,overcast clouds,2.88,AR,2024-06-07
-289,ongjin,37.9347,125.3619,17.0,96,overcast clouds,2.19,KP,2024-06-07
-290,alice springs,-23.7,133.8833,5.75,100,clear sky,2.57,AU,2024-06-07
-291,phan rang-thap cham,11.5667,108.9833,26.77,74,overcast clouds,1.52,VN,2024-06-07
-292,chonchi,-42.6128,-73.8092,12.56,97,light rain,1.43,CL,2024-06-07
-293,kittila,67.6647,24.8936,9.78,87,clear sky,1.54,FI,2024-06-07
-294,saint-junien,45.8833,0.9,20.32,97,overcast clouds,1.38,FR,2024-06-07
-295,san patricio,28.017,-97.5169,33.42,48,clear sky,6.92,US,2024-06-07
-296,port blair,11.6667,92.75,28.44,75,overcast clouds,6.76,IN,2024-06-07
-297,horta,38.5333,-28.6333,19.45,87,light rain,6.71,PT,2024-06-07
-298,rongelap,11.1635,166.8941,28.27,80,light rain,7.71,MH,2024-06-07
-299,boundiali,9.5217,-6.4869,25.24,82,light rain,1.41,CI,2024-06-07
-300,dolinsk,47.35,142.8,18.94,56,moderate rain,7.57,RU,2024-06-07
-301,ahar,38.4774,47.0699,16.79,61,clear sky,1.11,IR,2024-06-07
-302,haiku-pauwela,20.9219,-156.3051,28.45,71,few clouds,10.29,US,2024-06-07
-303,saldanha,-33.0117,17.9442,9.03,77,clear sky,3.05,ZA,2024-06-07
-304,antofagasta,-23.65,-70.4,15.6,84,overcast clouds,0.52,CL,2024-06-07
-305,la'ie,21.6477,-157.9253,30.98,75,few clouds,2.68,US,2024-06-07
-306,watsa,3.0372,29.5355,17.7,95,broken clouds,1.28,CD,2024-06-07
-307,papao,-17.75,-149.55,28.82,84,light rain,4.72,PF,2024-06-07
-308,stawell,-37.05,142.7667,8.17,89,broken clouds,4.53,AU,2024-06-07
-309,srednebelaya,50.6594,128.0106,10.21,85,overcast clouds,3.03,RU,2024-06-07
-310,eraan,9.0629,117.7016,25.83,84,broken clouds,1.65,PH,2024-06-07
-311,dompu,-8.5356,118.4622,24.52,94,broken clouds,1.22,ID,2024-06-07
-312,berdigestyakh,62.0989,126.6992,18.74,47,overcast clouds,4.13,RU,2024-06-07
-313,puerto armuelles,8.2833,-82.8667,27.99,72,light rain,1.79,PA,2024-06-07
-314,amparafaravola,-17.5833,48.2167,13.52,99,few clouds,1.79,MG,2024-06-07
-315,shenjiamen,29.9576,122.298,20.61,98,overcast clouds,3.7,CN,2024-06-07
-316,llandudno,53.325,-3.8315,13.95,84,overcast clouds,6.71,GB,2024-06-07
-317,namtsy,62.7161,129.6658,21.66,32,scattered clouds,3.06,RU,2024-06-07
-318,olenino,56.2092,33.4889,9.45,73,few clouds,1.8,RU,2024-06-07
-319,fedorovskiy,45.0972,40.9517,15.55,73,clear sky,2.39,RU,2024-06-07
-320,peace river,56.2501,-117.286,15.17,58,broken clouds,7.2,CA,2024-06-07
-321,sa pa,22.3402,103.8441,17.27,96,moderate rain,0.35,VN,2024-06-07
-322,ventanas,-1.45,-79.4667,27.51,77,overcast clouds,0.14,EC,2024-06-07
-323,atasu,48.6814,71.6433,16.52,84,broken clouds,4.0,KZ,2024-06-07
-324,dapaong,10.8639,0.205,26.66,72,broken clouds,3.35,TG,2024-06-07
-325,umea,63.8284,20.2597,9.95,93,fog,1.54,SE,2024-06-07
-326,sretensk,52.2453,117.7093,8.01,94,light rain,3.84,RU,2024-06-07
-327,le port,-20.9373,55.2919,19.98,76,scattered clouds,3.13,RE,2024-06-07
-328,inhambane,-23.865,35.3833,21.57,65,clear sky,8.66,MZ,2024-06-07
-329,chui,-33.6971,-53.4616,14.48,95,overcast clouds,2.12,UY,2024-06-07
-330,choyr,46.3611,108.3611,15.67,43,scattered clouds,2.1,MN,2024-06-07
-331,malanje,-9.5402,16.341,16.82,75,broken clouds,1.57,AO,2024-06-07
-332,stroud,51.75,-2.2,11.61,81,clear sky,3.17,GB,2024-06-07
-333,hasaki,35.7333,140.8333,22.38,76,broken clouds,2.61,JP,2024-06-07
-334,taksimo,56.3444,114.8794,5.15,98,overcast clouds,1.51,RU,2024-06-07
-335,larache,35.1932,-6.1557,18.71,82,clear sky,1.57,MA,2024-06-07
-336,volksrust,-27.3654,29.8818,5.8,84,scattered clouds,3.59,ZA,2024-06-07
-337,saint croix,17.7397,-64.7388,28.25,85,scattered clouds,3.09,VI,2024-06-07
-338,afaahiti,-17.75,-149.2833,27.93,85,light rain,4.12,PF,2024-06-07
-339,bandon,51.7469,-8.7425,11.77,91,broken clouds,2.25,IE,2024-06-07
-340,iskateley,67.6803,53.1512,1.12,92,broken clouds,3.58,RU,2024-06-07
-341,merizo village,13.2658,144.6691,29.43,92,broken clouds,5.49,GU,2024-06-07
-342,ghadamis,30.1337,9.5007,28.25,11,clear sky,5.03,LY,2024-06-07
-343,laela,-8.5667,32.05,13.63,60,clear sky,1.95,TZ,2024-06-07
-344,tahlequah,35.9154,-94.97,31.71,55,clear sky,5.14,US,2024-06-07
-345,urangan,-25.3,152.9,15.67,68,clear sky,4.02,AU,2024-06-07
-346,malakal,9.5334,31.6605,26.46,72,overcast clouds,0.5,SS,2024-06-07
-347,aral,40.5156,81.2636,22.01,33,broken clouds,2.02,CN,2024-06-07
-348,den burg,53.0542,4.7972,14.99,77,broken clouds,4.63,NL,2024-06-07
-349,katsuura,35.1333,140.3,20.67,79,broken clouds,1.82,JP,2024-06-07
-350,as samawah,31.332,45.2944,36.21,11,clear sky,3.45,IQ,2024-06-07
-351,wuwei,37.9281,102.6414,17.7,46,overcast clouds,2.1,CN,2024-06-07
-352,kolonia,50.9333,6.95,14.36,80,clear sky,0.51,DE,2024-06-07
-353,big bend,-26.8167,31.9333,14.05,82,scattered clouds,0.0,SZ,2024-06-07
-354,sovetskaya gavan',48.9723,140.2878,18.39,75,overcast clouds,2.11,RU,2024-06-07
-355,port elizabeth,-33.918,25.5701,13.39,94,scattered clouds,2.06,ZA,2024-06-07
-356,al qaryatayn,34.2296,37.2407,27.37,31,clear sky,6.57,SY,2024-06-07
-357,gagliano del capo,39.8442,18.3695,22.68,56,clear sky,6.17,IT,2024-06-07
-358,ivanivka,46.7208,34.553,19.34,63,clear sky,3.31,UA,2024-06-07
-359,riosucio,5.4216,-75.7032,19.77,94,overcast clouds,1.23,CO,2024-06-07
-360,sokol,59.4617,40.1206,15.27,97,overcast clouds,3.39,RU,2024-06-07
-361,boyolangu,-8.1181,111.8935,23.44,96,overcast clouds,0.67,ID,2024-06-07
-362,cabo san lucas,22.8909,-109.9124,32.61,49,few clouds,5.14,MX,2024-06-07
-363,weinan,34.5036,109.5089,23.51,53,light rain,0.82,CN,2024-06-07
-364,karasburg,-28.0167,18.75,8.28,55,clear sky,4.0,NA,2024-06-07
-365,hobyo,5.3505,48.5268,26.62,83,overcast clouds,10.82,SO,2024-06-07
-366,touros,-5.1989,-35.4608,25.3,89,broken clouds,3.53,BR,2024-06-07
-367,cooma,-36.2333,149.1333,8.8,95,overcast clouds,4.04,AU,2024-06-07
-368,gizo,-8.103,156.8419,28.2,73,overcast clouds,2.26,SB,2024-06-07
-369,slave lake,55.2834,-114.769,11.99,71,light rain,4.12,CA,2024-06-07
-370,taunton,51.0211,-3.1047,13.31,94,clear sky,2.74,GB,2024-06-07
-371,enriquillo,17.9,-71.2333,28.82,85,overcast clouds,3.54,DO,2024-06-07
-372,punta del este,-34.9667,-54.95,15.54,93,broken clouds,3.13,UY,2024-06-07
-373,jijiga,9.35,42.8,18.72,75,clear sky,4.55,ET,2024-06-07
-374,mahibadhoo,3.7833,72.9667,28.27,78,broken clouds,6.41,MV,2024-06-07
-375,ballito,-29.539,31.2144,15.08,77,light rain,5.66,ZA,2024-06-07
-376,tianpeng,30.9866,103.9393,21.26,71,overcast clouds,0.39,CN,2024-06-07
-377,buka,40.8108,69.1986,22.0,32,clear sky,1.07,UZ,2024-06-07
-378,santa cecilia,-26.9608,-50.4269,13.21,92,clear sky,0.65,BR,2024-06-07
-379,belyy yar,53.6039,91.3903,15.94,88,light rain,2.0,RU,2024-06-07
-380,palmer,42.1584,-72.3287,23.23,71,light rain,2.57,US,2024-06-07
-381,dapa,9.7594,126.0531,28.39,79,overcast clouds,5.08,PH,2024-06-07
-382,nandurbar,21.3667,74.25,29.07,69,overcast clouds,5.4,IN,2024-06-07
-383,gamba,-2.65,10.0,22.49,92,broken clouds,2.8,GA,2024-06-07
-384,labrador city,52.9463,-66.9114,25.1,35,clear sky,2.57,CA,2024-06-07
-385,tanout,14.9709,8.8879,29.04,49,overcast clouds,9.62,NE,2024-06-07
-386,olinda,-8.0089,-34.8553,24.85,100,broken clouds,1.54,BR,2024-06-07
-387,butajira,8.1167,38.3667,16.76,78,light rain,1.39,ET,2024-06-07
-388,harper,4.375,-7.7169,25.97,85,overcast clouds,4.43,LR,2024-06-07
-389,old shinyanga,-3.55,33.4,19.72,47,clear sky,2.58,TZ,2024-06-07
-390,tamandare,-8.7597,-35.1047,24.8,87,overcast clouds,2.2,BR,2024-06-07
-391,holualoa,19.6228,-155.9522,25.91,76,overcast clouds,3.6,US,2024-06-07
-392,i-n-salah,27.1935,2.4607,37.58,9,clear sky,2.65,DZ,2024-06-07
-393,novyye lapsary,56.0685,47.2142,16.84,100,clear sky,2.0,RU,2024-06-07
-394,kamloops,50.6665,-120.3192,25.42,22,few clouds,6.17,CA,2024-06-07
-395,gebeit,21.0667,36.3167,32.57,14,scattered clouds,1.31,SD,2024-06-07
-396,flying fish cove,-10.4217,105.6791,25.82,88,overcast clouds,5.14,CX,2024-06-07
-397,waddan,29.1614,16.139,25.87,36,clear sky,5.14,LY,2024-06-07
-398,bosobolo,4.1833,19.9,22.02,97,overcast clouds,0.73,CD,2024-06-07
-399,bismarck,46.8083,-100.7837,20.91,35,broken clouds,9.26,US,2024-06-07
-400,nadym,65.5333,72.5167,6.09,74,overcast clouds,4.44,RU,2024-06-07
-401,mana,5.6592,-53.7767,26.44,87,broken clouds,3.53,GF,2024-06-07
-402,rabo de peixe,37.8,-25.5833,18.73,99,broken clouds,3.09,PT,2024-06-07
-403,tsiombe,-25.3,45.4833,19.63,81,clear sky,2.59,MG,2024-06-07
-404,cumaral,4.2708,-73.4867,22.75,96,overcast clouds,0.37,CO,2024-06-07
-405,sterling,39.0062,-77.4286,26.69,44,scattered clouds,6.69,US,2024-06-07
-406,khandyga,62.6667,135.6,15.89,57,clear sky,1.98,RU,2024-06-07
-407,kununurra,-15.7667,128.7333,14.99,72,clear sky,0.0,AU,2024-06-07
-408,newman,37.3138,-121.0208,38.13,33,clear sky,1.79,US,2024-06-07
-409,caspe,41.234,-0.0395,22.18,52,overcast clouds,5.63,ES,2024-06-07
-410,eureka,40.8021,-124.1637,35.41,66,broken clouds,2.68,US,2024-06-07
-411,sosnovo-ozerskoye,52.5249,111.5418,8.69,50,clear sky,1.77,RU,2024-06-07
-412,remire-montjoly,4.9167,-52.2667,27.02,94,mist,1.54,GF,2024-06-07
-413,beaufort west,-32.3567,22.583,8.19,72,few clouds,2.3,ZA,2024-06-07
-414,jurm,36.8648,70.8342,13.06,62,overcast clouds,0.14,AF,2024-06-07
-415,swabi,34.1199,72.4699,26.03,37,few clouds,1.85,PK,2024-06-07
-416,mugia,43.1041,-9.2179,15.51,90,overcast clouds,11.36,ES,2024-06-07
-417,kalifornsky,60.4183,-151.29,16.82,47,clear sky,8.23,US,2024-06-07
-418,noosa heads,-26.3833,153.15,16.73,61,clear sky,3.55,AU,2024-06-07
-419,betio village,1.358,172.9211,29.02,75,overcast clouds,4.33,KI,2024-06-07
-420,al jawf,29.5,38.75,29.12,16,clear sky,2.77,SA,2024-06-07
-421,zhangatas,43.5667,69.75,20.46,62,scattered clouds,4.02,KZ,2024-06-07
-422,muhos,64.808,25.9931,8.88,69,broken clouds,0.81,FI,2024-06-07
-423,inirida,3.8653,-67.9239,24.58,97,light rain,0.93,CO,2024-06-07
-424,saint-pierre,-21.3393,55.4781,18.82,77,few clouds,2.06,RE,2024-06-07
-425,torghay,49.6339,63.4981,19.5,74,broken clouds,0.36,KZ,2024-06-07
-426,hilo,19.7297,-155.09,27.85,76,overcast clouds,3.6,US,2024-06-07
-427,san-pedro,4.7485,-6.6363,25.53,89,light rain,3.85,CI,2024-06-07
-428,trenggalek,-8.05,111.7167,23.61,97,overcast clouds,1.09,ID,2024-06-07
-429,puerto aysen,-45.4,-72.7,8.27,99,light rain,0.81,CL,2024-06-07
-430,santa eularia des riu,38.9846,1.5341,23.95,69,clear sky,5.66,ES,2024-06-07
-431,susuman,62.7833,148.1667,7.21,53,light rain,6.26,RU,2024-06-07
-432,quezon,7.7303,125.0989,23.97,89,overcast clouds,0.51,PH,2024-06-07
-433,saint-joseph,-21.3667,55.6167,18.21,81,scattered clouds,3.19,RE,2024-06-07
-434,horasan,40.0458,42.1728,11.64,86,broken clouds,1.18,TR,2024-06-07
-435,banlung,13.7468,107.0045,22.72,98,overcast clouds,0.33,KH,2024-06-07
-436,sogndal,61.2283,7.1003,6.21,87,broken clouds,0.0,NO,2024-06-07
-437,ngereklmadel,7.4883,134.4856,29.05,89,haze,1.54,PW,2024-06-07
-438,le vauclin,14.5452,-60.8388,29.03,79,broken clouds,5.14,MQ,2024-06-07
-439,asuncion nochixtlan,17.4667,-97.2333,25.9,22,overcast clouds,8.13,MX,2024-06-07
-440,acajutla,13.5928,-89.8275,28.26,79,overcast clouds,2.08,SV,2024-06-07
-441,kingston,17.997,-76.7936,29.53,79,scattered clouds,7.2,JM,2024-06-07
-442,hadibu,12.65,54.0333,28.76,77,broken clouds,7.36,YE,2024-06-07
-443,quelimane,-17.8786,36.8883,22.97,94,scattered clouds,2.05,MZ,2024-06-07
-444,waingapu,-9.6567,120.2641,24.59,81,few clouds,2.91,ID,2024-06-07
-445,eirunepe,-6.6603,-69.8736,25.77,86,overcast clouds,0.19,BR,2024-06-07
-446,presque isle,46.6811,-68.0159,21.24,74,moderate rain,1.54,US,2024-06-07
-447,dawson creek,55.7666,-120.2362,17.8,20,scattered clouds,7.2,CA,2024-06-07
-448,la ronge,55.1001,-105.2842,8.14,61,light rain,5.14,CA,2024-06-07
-449,hanceville,34.0607,-86.7675,28.03,55,clear sky,2.94,US,2024-06-07
-450,gumdag,39.2061,54.5906,27.84,17,clear sky,1.01,TM,2024-06-07
-451,kudahuvadhoo,2.6708,72.8944,28.51,76,broken clouds,6.2,MV,2024-06-07
-452,yaren,-0.5472,166.916,29.07,70,overcast clouds,3.59,NR,2024-06-07
-453,santa terezinha,-29.9002,-50.0904,18.02,88,clear sky,2.92,BR,2024-06-07
-454,rundu,-17.9333,19.7667,9.7,39,few clouds,3.23,NA,2024-06-07
-455,al bayda',32.7627,21.7551,17.17,94,scattered clouds,4.38,LY,2024-06-07
-456,bonga,7.2833,36.2333,16.31,99,light rain,0.55,ET,2024-06-07
-457,fale old settlement,-9.3852,-171.2468,28.85,74,light rain,2.85,TK,2024-06-07
-458,shumikha,55.2261,63.2961,13.93,97,overcast clouds,4.67,RU,2024-06-07
-459,callao,-12.0667,-77.15,22.62,77,few clouds,6.17,PE,2024-06-07
-460,kanel,15.4916,-13.1763,40.14,15,broken clouds,6.63,SN,2024-06-07
-461,rio preto da eva,-2.6994,-59.6997,25.77,78,overcast clouds,0.97,BR,2024-06-07
-462,pierre,44.3683,-100.351,24.51,53,clear sky,5.66,US,2024-06-07
-463,digras,20.1167,77.7167,28.58,64,overcast clouds,4.87,IN,2024-06-07
-464,itoman,26.1247,127.6694,27.01,88,broken clouds,5.66,JP,2024-06-07
-465,uzgen,40.7699,73.3007,18.16,52,clear sky,3.13,KG,2024-06-07
-466,gonzalez,30.5816,-87.2914,34.47,55,clear sky,2.24,US,2024-06-07
-467,turabah,21.2141,41.6331,29.29,20,clear sky,1.92,SA,2024-06-07
-468,sao gabriel da cachoeira,-0.1303,-67.0892,24.15,98,moderate rain,0.73,BR,2024-06-07
-469,canto do buriti,-8.11,-42.9444,26.75,44,scattered clouds,3.0,BR,2024-06-07
-470,yuzhno-kurilsk,44.0306,145.8556,11.32,86,overcast clouds,4.28,RU,2024-06-07
-471,guankou,28.15,113.6333,22.89,85,overcast clouds,0.91,CN,2024-06-07
-472,sao joao da barra,-21.6403,-41.0511,21.05,85,clear sky,4.39,BR,2024-06-07
-473,panama city beach,30.1766,-85.8055,31.07,72,clear sky,5.14,US,2024-06-07
-474,riva del garda,45.8858,10.8412,22.56,81,broken clouds,1.39,IT,2024-06-07
-475,usakos,-22.0,15.6,11.94,30,clear sky,6.1,NA,2024-06-07
-476,bo phloi,14.3236,99.5161,24.73,85,overcast clouds,1.56,TH,2024-06-07
-477,wajir,1.7471,40.0573,25.01,66,scattered clouds,6.72,KE,2024-06-07
-478,santo antonio,-6.3106,-35.4789,23.26,95,overcast clouds,3.02,BR,2024-06-07
-479,lewiston orchards,46.3804,-116.9754,29.95,29,clear sky,3.09,US,2024-06-07
-480,ad dilam,23.9915,47.1627,34.23,12,clear sky,2.94,SA,2024-06-07
-481,bridgewater,44.3835,-64.5155,13.39,99,overcast clouds,6.17,CA,2024-06-07
-482,port alberni,49.2413,-124.8028,27.16,31,clear sky,4.02,CA,2024-06-07
-483,masterton,-40.9597,175.6575,13.82,79,few clouds,1.12,NZ,2024-06-07
-484,mwene-ditu,-7.0,23.45,20.52,42,few clouds,2.04,CD,2024-06-07
-485,puerto lempira,15.2667,-83.7667,30.99,66,overcast clouds,5.67,HN,2024-06-07
-486,tateyama,34.9833,139.8667,20.61,75,broken clouds,1.97,JP,2024-06-07
-487,chifeng,42.2683,118.9636,17.27,61,few clouds,2.85,CN,2024-06-07
-488,geraldton,-28.7667,114.6,16.23,94,overcast clouds,3.6,AU,2024-06-07
-489,el molino,10.6523,-72.924,27.23,93,light rain,1.49,CO,2024-06-07
-490,samana,19.2056,-69.3369,28.98,78,broken clouds,2.6,DO,2024-06-07
-491,laojunmiao,39.8333,97.7333,17.09,31,overcast clouds,3.85,CN,2024-06-07
-492,cedar falls,42.5278,-92.4455,24.76,37,clear sky,3.09,US,2024-06-07
-493,sao vicente,-23.9631,-46.3919,26.82,59,clear sky,0.89,BR,2024-06-07
-494,menongue,-14.6585,17.691,11.81,38,clear sky,2.21,AO,2024-06-07
-495,smidovich,48.6,133.8167,16.06,97,overcast clouds,4.17,RU,2024-06-07
-496,lospalos,-8.5186,127.0025,21.07,87,overcast clouds,4.07,TL,2024-06-07
-497,cooper's town,26.8667,-77.5167,28.88,71,clear sky,2.11,BS,2024-06-07
-498,colonia,50.9333,6.95,14.36,80,clear sky,0.51,DE,2024-06-07
-499,tianchang,37.9981,114.0156,23.39,40,broken clouds,2.96,CN,2024-06-07
-500,palapag,12.5458,125.1147,27.75,80,broken clouds,2.25,PH,2024-06-07
-501,tabas,33.5959,56.9244,28.12,10,clear sky,2.06,IR,2024-06-07
-502,bocas del toro,9.3333,-82.25,26.14,75,overcast clouds,1.87,PA,2024-06-07
-503,san fernando de apure,7.8878,-67.4724,24.63,95,moderate rain,1.78,VE,2024-06-07
-504,levelland,33.5873,-102.378,35.66,20,few clouds,9.82,US,2024-06-07
-505,eyl,7.9803,49.8164,27.58,71,overcast clouds,9.86,SO,2024-06-07
-506,altamira,-3.2033,-52.2064,25.42,85,overcast clouds,1.38,BR,2024-06-07
-507,pacific grove,36.6177,-121.9166,21.33,85,few clouds,8.23,US,2024-06-07
-508,figuig (centre),32.1089,-1.2286,26.4,11,broken clouds,3.36,MA,2024-06-07
-509,cururupu,-1.8283,-44.8683,23.96,96,overcast clouds,0.87,BR,2024-06-07
-510,gaiman,-43.2897,-65.4929,11.83,56,overcast clouds,0.71,AR,2024-06-07
-511,al ghayzah,16.2079,52.176,29.39,82,clear sky,2.98,YE,2024-06-07
-512,kottagudem,17.55,80.6333,26.45,82,overcast clouds,1.76,IN,2024-06-07
-513,bull savanna,17.8868,-77.5902,27.5,76,broken clouds,5.77,JM,2024-06-07
-514,kuliyapitiya,7.4688,80.0401,25.03,90,overcast clouds,2.36,LK,2024-06-07
-515,pedernales,18.0384,-71.744,29.54,73,overcast clouds,6.55,DO,2024-06-07
-516,caleta de carquin,-11.0925,-77.6267,19.42,77,clear sky,3.95,PE,2024-06-07
-517,cabedelo,-6.9811,-34.8339,24.37,86,overcast clouds,3.98,BR,2024-06-07
-518,pasni,25.2631,63.471,28.69,82,clear sky,6.3,PK,2024-06-07
-519,sinan,34.8262,126.1086,20.06,96,overcast clouds,4.4,KR,2024-06-07
-520,saminaka,10.414,8.6828,21.02,94,moderate rain,3.41,NG,2024-06-07
-521,nguigmi,14.2495,13.1092,31.09,46,broken clouds,8.79,NE,2024-06-07
-522,talcahuano,-36.7167,-73.1167,14.82,94,clear sky,2.06,CL,2024-06-07
-523,ebon,4.582,168.6964,28.73,74,overcast clouds,5.16,MH,2024-06-07
-524,palikir - national government center,6.9248,158.1611,30.47,74,broken clouds,4.12,FM,2024-06-07
-525,zaozersk,69.4005,32.4476,7.03,71,broken clouds,5.81,RU,2024-06-07
-526,suhbaatar,50.2314,106.2078,15.79,54,broken clouds,1.23,MN,2024-06-07
-527,aasiaat,68.7098,-52.8699,0.48,93,overcast clouds,2.38,GL,2024-06-07
-528,cannonvale,-20.2833,148.7,18.66,60,clear sky,3.65,AU,2024-06-07
-529,port augusta,-32.5,137.7667,10.66,87,overcast clouds,1.13,AU,2024-06-07
-530,magadi,12.9667,77.2333,22.23,95,overcast clouds,3.43,IN,2024-06-07
-531,mandal,25.45,74.5667,31.08,37,scattered clouds,4.59,IN,2024-06-07
-532,kas,36.2018,29.6377,27.52,44,few clouds,1.51,TR,2024-06-07
-533,esperantinopolis,-4.8667,-44.7083,27.17,70,overcast clouds,1.32,BR,2024-06-07
-534,kantunilkin,21.0917,-87.45,34.39,45,broken clouds,2.74,MX,2024-06-07
-535,darab,28.7519,54.5444,26.62,26,scattered clouds,0.6,IR,2024-06-07
-536,vorkuta,67.5,64.0,-1.05,93,overcast clouds,0.89,RU,2024-06-07
-537,tadine,-21.55,167.8833,25.23,69,overcast clouds,5.0,NC,2024-06-07
-538,salalah,17.0151,54.0924,30.05,84,broken clouds,4.12,OM,2024-06-07
-539,piti village,13.4626,144.6933,30.03,85,few clouds,4.63,GU,2024-06-07
-540,selfoss,63.9331,-20.9971,5.02,65,few clouds,5.38,IS,2024-06-07
-541,sitka,57.0531,-135.33,15.94,63,clear sky,2.06,US,2024-06-07
-542,kamaishi,39.2667,141.8833,19.57,72,clear sky,3.44,JP,2024-06-07
-543,arkhangel'sk,64.5401,40.5433,16.06,67,scattered clouds,3.0,RU,2024-06-07
-544,mola di bari,41.0609,17.0873,22.35,62,clear sky,2.33,IT,2024-06-07
-545,gunjur,13.2019,-16.7339,24.04,88,clear sky,2.57,GM,2024-06-07
-546,achinsk,56.2694,90.4993,14.28,80,light rain,1.34,RU,2024-06-07
-547,suonenjoki,62.6167,27.1333,8.14,92,few clouds,1.2,FI,2024-06-07
-548,okhotsk,59.3833,143.3,3.21,95,light rain,2.9,RU,2024-06-07
-549,pontotoc,34.2479,-88.9987,29.78,57,clear sky,2.18,US,2024-06-07
-550,horbranz,47.55,9.75,18.0,91,broken clouds,2.06,AT,2024-06-07
-551,martapura,-3.4167,114.85,25.05,100,overcast clouds,2.06,ID,2024-06-07
-552,castillos,-34.1667,-53.8333,13.72,93,overcast clouds,1.7,UY,2024-06-07
-553,colares,38.7992,-9.4469,18.75,94,overcast clouds,5.81,PT,2024-06-07
-554,myers corner,41.6062,-73.8729,20.67,79,overcast clouds,4.12,US,2024-06-07
-555,asadabad,34.7824,48.1185,17.97,52,clear sky,1.89,IR,2024-06-07
-556,kerikeri,-35.2268,173.9474,18.28,95,light rain,1.79,NZ,2024-06-07
-557,kemijarvi,66.7131,27.4306,8.1,81,overcast clouds,1.79,FI,2024-06-07
+0,labytnangi,66.6572,66.4183,3.59,72,8,3.91,RU,2024-06-07
+1,ushuaia,-54.8,-68.3,1.81,80,0,8.23,AR,2024-06-07
+2,grytviken,-54.2811,-36.5092,-5.93,79,12,5.12,GS,2024-06-07
+3,okhotsk,59.3833,143.3,3.6,93,100,2.44,RU,2024-06-07
+4,puerto natales,-51.7236,-72.4875,2.82,99,100,0.96,CL,2024-06-07
+5,port-aux-francais,-49.35,70.2167,6.05,97,100,11.68,TF,2024-06-07
+6,papatowai,-46.5619,169.4708,11.67,71,26,1.94,NZ,2024-06-07
+7,albany,42.6001,-73.9662,17.02,91,44,0.45,US,2024-06-07
+8,lata,40.1629,-8.3327,19.49,99,90,1.38,PT,2024-06-07
+9,adamstown,-25.066,-130.1015,23.32,76,83,5.43,PN,2024-06-07
+10,petropavlovsk-kamchatsky,53.0452,158.6483,21.33,50,0,4.47,RU,2024-06-07
+11,ribeira grande,38.5167,-28.7,19.87,86,100,5.36,PT,2024-06-07
+12,eppingen,49.1369,8.9103,15.25,70,53,1.05,DE,2024-06-07
+13,labrador city,52.9463,-66.9114,22.95,40,0,2.06,CA,2024-06-07
+14,isangel,-19.55,169.2667,27.06,69,75,0.0,VU,2024-06-07
+15,edinburgh of the seven seas,-37.0676,-12.3116,14.21,73,100,5.17,SH,2024-06-07
+16,arraial do cabo,-22.9661,-42.0278,22.63,88,0,6.95,BR,2024-06-07
+17,yellowknife,62.456,-114.3525,8.56,88,100,9.77,CA,2024-06-07
+18,lihue,21.9789,-159.3672,28.58,67,0,5.66,US,2024-06-07
+19,bardai,11.65,7.2333,24.64,74,100,5.74,NG,2024-06-07
+20,waitangi,-43.9535,-176.5597,9.34,63,7,4.02,NZ,2024-06-07
+21,jutai,-5.1833,-68.9,22.97,99,74,0.78,BR,2024-06-07
+22,margate,51.3813,1.3862,13.72,83,11,3.13,GB,2024-06-07
+23,thompson,55.7435,-97.8558,8.09,87,75,2.57,CA,2024-06-07
+24,vorgashor,67.5833,63.95,-1.22,93,100,3.91,RU,2024-06-07
+25,busko-zdroj,50.4708,20.7188,15.05,89,64,2.64,PL,2024-06-07
+26,caister-on-sea,52.6481,1.7265,12.77,95,100,5.4,GB,2024-06-07
+27,puerto ayora,-0.7393,-90.3518,21.42,98,53,0.45,EC,2024-06-07
+28,guerrero negro,27.9769,-114.0611,18.84,73,20,8.52,MX,2024-06-07
+29,delano,35.7688,-119.247,39.32,12,0,4.12,US,2024-06-07
+30,zaozersk,69.4005,32.4476,6.48,74,100,6.58,RU,2024-06-07
+31,saint-girons,42.9167,1.1667,19.02,86,100,3.11,FR,2024-06-07
+32,bikenibeu village,1.3673,173.1241,29.98,79,75,2.06,KI,2024-06-07
+33,fale old settlement,-9.3852,-171.2468,29.35,71,7,2.53,TK,2024-06-07
+34,talnakh,69.4865,88.3972,-1.55,90,99,4.02,RU,2024-06-07
+35,port macquarie,-31.4333,152.9167,19.38,59,0,2.51,AU,2024-06-07
+36,sumbawa besar,-8.5,117.4333,28.26,74,51,2.33,ID,2024-06-07
+37,luderitz,-26.6481,15.1594,17.15,45,0,7.26,NA,2024-06-07
+38,st. john's,47.5649,-52.7093,10.66,91,20,2.06,CA,2024-06-07
+39,san luis,-33.295,-66.3356,14.55,73,100,1.71,AR,2024-06-07
+40,puerto santa,-8.9906,-78.6456,18.25,86,2,3.28,PE,2024-06-07
+41,roma,43.2128,-75.4557,14.34,98,100,3.6,US,2024-06-07
+42,iqaluit,63.7506,-68.5145,0.85,80,75,9.77,CA,2024-06-07
+43,lebu,-37.6167,-73.65,13.65,98,99,1.45,CL,2024-06-07
+44,bilibino,68.0546,166.4372,8.17,32,12,1.63,RU,2024-06-07
+45,masterton,-40.9597,175.6575,14.38,63,21,1.19,NZ,2024-06-07
+46,hermanus,-34.4187,19.2345,10.45,77,9,3.1,ZA,2024-06-07
+47,hithadhoo,-0.6,73.0833,28.27,74,99,5.18,MV,2024-06-07
+48,kapit,2.0167,112.9333,27.18,82,49,0.83,MY,2024-06-07
+49,blackmans bay,-43.0167,147.3167,5.07,57,47,0.72,AU,2024-06-07
+50,crane,31.3974,-102.3501,34.93,24,0,9.66,US,2024-06-07
+51,kitimat,54.0524,-128.6534,24.21,40,11,1.68,CA,2024-06-07
+52,yuzhno-kurilsk,44.0306,145.8556,13.42,83,81,4.84,RU,2024-06-07
+53,trincomalee,8.5711,81.2335,27.53,77,100,8.88,LK,2024-06-07
+54,hamilton,39.1834,-84.5333,25.97,41,0,4.12,US,2024-06-07
+55,vorkuta,67.5,64.0,-1.05,93,100,0.89,RU,2024-06-07
+56,hami,42.8,93.45,27.79,11,4,3.18,CN,2024-06-07
+57,kichmengskiy gorodok,59.9816,45.7854,13.86,79,6,1.34,RU,2024-06-07
+58,portland,45.5234,-122.6762,31.4,34,0,5.14,US,2024-06-07
+59,narrabri,-30.3167,149.7833,11.96,95,88,3.35,AU,2024-06-07
+60,bredasdorp,-34.5322,20.0403,9.27,85,8,0.58,ZA,2024-06-07
+61,visakhapatnam,17.69,83.2093,28.84,71,96,5.92,IN,2024-06-07
+62,santa isabel,-23.3156,-46.2214,16.84,85,0,0.21,BR,2024-06-07
+63,yankton,42.8711,-97.3973,23.14,40,100,3.6,US,2024-06-07
+64,i-n-salah,27.1935,2.4607,34.83,11,6,4.97,DZ,2024-06-07
+65,port elizabeth,-33.918,25.5701,12.16,94,100,1.03,ZA,2024-06-07
+66,north bay,46.3168,-79.4663,16.01,82,75,4.12,CA,2024-06-07
+67,port alfred,-33.5906,26.891,15.12,70,100,0.67,ZA,2024-06-07
+68,pingliang,35.5392,106.6861,19.18,47,100,5.27,CN,2024-06-07
+69,pisco,-13.7,-76.2167,17.03,94,75,1.03,PE,2024-06-07
+70,namibe,-15.1961,12.1522,18.74,64,0,1.92,AO,2024-06-07
+71,augusta,48.3667,10.8833,14.63,100,20,1.54,DE,2024-06-07
+72,opuwo,-18.0607,13.84,13.18,29,0,4.75,NA,2024-06-07
+73,barreirinhas,-2.7469,-42.8264,25.35,90,80,1.92,BR,2024-06-07
+74,lycksele,64.5954,18.6735,0.93,100,8,0.51,SE,2024-06-07
+75,acapulco de juarez,16.8634,-99.8901,28.9,70,40,5.14,MX,2024-06-07
+76,najran,17.4924,44.1277,26.36,11,74,3.54,SA,2024-06-07
+77,cold springs,39.6802,-119.9766,33.24,15,0,9.26,US,2024-06-07
+78,udachny,66.4167,112.4,16.04,48,100,4.18,RU,2024-06-07
+79,iskateley,67.6803,53.1512,1.12,92,100,3.58,RU,2024-06-07
+80,kemise,10.7167,39.8667,22.71,28,100,2.71,ET,2024-06-07
+81,la mira,18.035,-102.3266,26.35,71,100,3.56,MX,2024-06-07
+82,peniche,39.3558,-9.3811,18.38,97,52,4.56,PT,2024-06-07
+83,usinsk,65.9939,57.5281,3.37,80,0,3.58,RU,2024-06-07
+84,ilulissat,69.2167,-51.1,1.01,93,75,1.54,GL,2024-06-07
+85,bethel,41.3712,-73.414,19.93,82,75,2.57,US,2024-06-07
+86,laojunmiao,39.8333,97.7333,18.8,26,100,1.78,CN,2024-06-07
+87,qarazhal,48.0078,70.7903,20.15,66,36,4.16,KZ,2024-06-07
+88,rongelap,11.1635,166.8941,28.21,80,86,7.33,MH,2024-06-07
+89,nieuw amsterdam,5.8833,-55.0833,26.01,89,20,3.09,SR,2024-06-07
+90,tofol,5.3248,163.0078,28.88,84,100,2.06,FM,2024-06-07
+91,nelson bay,-32.7167,152.15,17.22,72,99,1.79,AU,2024-06-07
+92,loiza,18.4313,-65.8802,29.99,78,0,4.63,PR,2024-06-07
+93,utrik,11.2278,169.8474,28.28,80,100,4.88,MH,2024-06-07
+94,remire-montjoly,4.9167,-52.2667,26.02,94,75,0.0,GF,2024-06-07
+95,margaret river,-33.95,115.0667,16.59,76,20,4.7,AU,2024-06-07
+96,saldanha,-33.0117,17.9442,9.03,77,4,3.03,ZA,2024-06-07
+97,zhosaly,45.4878,64.0781,27.18,25,13,3.66,KZ,2024-06-07
+98,arteche,12.2645,125.4048,30.46,67,61,4.01,PH,2024-06-07
+99,punta arenas,-53.15,-70.9167,4.06,93,100,1.54,CL,2024-06-07
+100,keflavik,64.0049,-22.5624,5.95,81,0,5.66,IS,2024-06-07
+101,susuman,62.7833,148.1667,7.21,53,100,6.26,RU,2024-06-07
+102,cabedelo,-6.9811,-34.8339,24.37,86,100,3.84,BR,2024-06-07
+103,klaksvik,62.2266,-6.589,6.51,72,100,5.73,FO,2024-06-07
+104,isafjordur,66.0755,-23.124,1.02,97,98,3.46,IS,2024-06-07
+105,jamestown,42.097,-79.2353,16.77,77,100,3.6,US,2024-06-07
+106,kodiak,57.79,-152.4072,7.73,87,100,6.69,US,2024-06-07
+107,george town,5.4112,100.3354,29.96,78,40,1.54,MY,2024-06-07
+108,mahibadhoo,3.7833,72.9667,28.33,76,100,6.51,MV,2024-06-07
+109,imbituba,-28.24,-48.6703,20.48,90,6,2.03,BR,2024-06-07
+110,kone,-21.0595,164.8658,28.95,45,5,4.94,NC,2024-06-07
+111,le port,-20.9373,55.2919,20.0,76,22,2.21,RE,2024-06-07
+112,chonglong,29.7806,104.8522,21.28,91,100,1.33,CN,2024-06-07
+113,hawaiian paradise park,19.5933,-154.9731,27.73,70,100,5.14,US,2024-06-07
+114,invercargill,-46.4,168.35,11.12,96,40,0.89,NZ,2024-06-07
+115,mizdah,31.4451,12.9801,21.93,38,0,1.83,LY,2024-06-07
+116,howard springs,-12.497,131.047,21.95,56,7,4.99,AU,2024-06-07
+117,west island,-12.1568,96.8225,26.99,78,40,4.12,CC,2024-06-07
+118,qaqortoq,60.7167,-46.0333,2.4,98,100,0.98,GL,2024-06-07
+119,san luis de la loma,17.2706,-100.8939,26.95,72,100,2.7,MX,2024-06-07
+120,luba,3.4568,8.5547,26.94,87,100,3.4,GQ,2024-06-07
+121,vernon,50.2581,-119.2691,25.34,26,3,1.54,CA,2024-06-07
+122,pandan,14.0453,124.1694,29.62,73,63,2.09,PH,2024-06-07
+123,hasaki,35.7333,140.8333,24.22,72,100,1.89,JP,2024-06-07
+124,luwuk,-0.9516,122.7875,26.87,75,71,2.39,ID,2024-06-07
+125,avarua,-21.2078,-159.775,23.03,53,75,2.57,CK,2024-06-07
+126,college,64.8569,-147.8028,21.36,31,40,2.57,US,2024-06-07
+127,tsiombe,-25.3,45.4833,19.16,90,0,2.65,MG,2024-06-07
+128,sao gabriel da cachoeira,-0.1303,-67.0892,23.6,98,99,0.75,BR,2024-06-07
+129,stanley,54.868,-1.6985,9.84,79,0,4.12,GB,2024-06-07
+130,midvagur,62.0511,-7.1939,6.46,75,75,4.12,FO,2024-06-07
+131,macapa,0.0389,-51.0664,26.99,89,100,1.54,BR,2024-06-07
+132,reguiba,33.5639,6.7033,32.03,18,0,2.06,DZ,2024-06-07
+133,geraldton,-28.7667,114.6,16.23,94,100,3.6,AU,2024-06-07
+134,chernyshevskiy,63.0128,112.4714,13.83,62,100,1.01,RU,2024-06-07
+135,kingston,17.997,-76.7936,29.53,74,20,7.2,JM,2024-06-07
+136,armacao de buzios,-22.7469,-41.8817,22.03,89,1,5.9,BR,2024-06-07
+137,saint-francois,46.4154,3.9054,16.69,88,0,1.03,FR,2024-06-07
+138,kargasok,59.0556,80.8572,13.31,61,100,3.13,RU,2024-06-07
+139,puerto baquerizo moreno,-0.9,-89.6,21.64,88,89,3.76,EC,2024-06-07
+140,aykhal,66.0,111.5,11.55,63,100,6.3,RU,2024-06-07
+141,atafu village,-8.5421,-172.5159,29.51,71,6,3.92,TK,2024-06-07
+142,san antonio de pale,-1.4014,5.6325,24.93,76,90,4.02,GQ,2024-06-07
+143,elena,42.9333,25.8833,15.62,80,7,1.53,BG,2024-06-07
+144,east london,-33.0153,27.9116,14.7,75,100,1.56,ZA,2024-06-07
+145,enewetak,11.3474,162.3373,28.39,81,81,7.53,MH,2024-06-07
+146,sabang,5.8933,95.3214,29.17,74,67,5.76,ID,2024-06-07
+147,horta,38.5333,-28.6333,19.45,86,100,5.36,PT,2024-06-07
+148,alice springs,-23.7,133.8833,11.75,71,1,2.06,AU,2024-06-07
+149,fuglafjordur,62.244,-6.814,6.26,76,100,4.99,FO,2024-06-07
+150,carloforte,39.145,8.3058,20.37,68,7,3.4,IT,2024-06-07
+151,longyearbyen,78.2186,15.6401,5.91,61,0,2.06,SJ,2024-06-07
+152,mar del plata,-38.0023,-57.5575,14.41,83,75,2.68,AR,2024-06-07
+153,nuuk,64.1835,-51.7216,3.34,93,20,2.06,GL,2024-06-07
+154,qianzhou,28.3167,109.7167,18.47,94,100,0.41,CN,2024-06-07
+155,bisbee,31.4482,-109.9284,33.11,14,100,1.79,US,2024-06-07
+156,mizan teferi,6.9833,35.5833,16.99,97,100,1.24,ET,2024-06-07
+157,kapuskasing,49.4169,-82.4331,16.05,88,75,3.09,CA,2024-06-07
+158,cles,46.3667,11.0333,18.05,85,100,1.62,IT,2024-06-07
+159,lodja,-3.4833,23.4333,21.06,74,17,0.68,CD,2024-06-07
+160,tura,25.5198,90.2201,26.27,88,4,2.13,IN,2024-06-07
+161,huarmey,-10.0681,-78.1522,19.37,82,6,3.5,PE,2024-06-07
+162,richmond,37.5538,-77.4603,27.02,55,0,2.57,US,2024-06-07
+163,chernyshevsk,52.5243,117.0174,8.49,83,100,4.98,RU,2024-06-07
+164,nardaran,40.5561,50.0056,21.8,83,0,6.17,AZ,2024-06-07
+165,aswan,24.0934,32.907,36.61,12,0,2.57,EG,2024-06-07
+166,faya-largeau,17.9257,19.1043,33.65,11,13,6.71,TD,2024-06-07
+167,kununurra,-15.7667,128.7333,20.99,35,61,6.69,AU,2024-06-07
+168,shohimardon,39.9839,71.8028,14.43,48,9,3.52,UZ,2024-06-07
+169,darzab,35.9774,65.3783,18.82,21,0,2.5,AF,2024-06-07
+170,teguise,29.0605,-13.564,19.12,78,0,1.54,ES,2024-06-07
+171,talcahuano,-36.7167,-73.1167,14.82,94,0,1.54,CL,2024-06-07
+172,fort bragg,35.139,-79.006,29.91,50,0,4.12,US,2024-06-07
+173,dubbo,-32.25,148.6167,11.07,93,100,4.12,AU,2024-06-07
+174,cadale,2.7603,46.3222,26.11,86,100,8.85,SO,2024-06-07
+175,ardahan,41.1087,42.7022,9.22,86,100,1.05,TR,2024-06-07
+176,glendive,47.1053,-104.7125,22.79,30,0,5.66,US,2024-06-07
+177,pemangkat,1.1667,108.9667,26.29,86,100,2.66,ID,2024-06-07
+178,novodvinsk,64.4165,40.8122,14.86,84,100,2.52,RU,2024-06-07
+179,albert lea,43.648,-93.3683,22.78,43,0,0.0,US,2024-06-07
+180,colonia,50.9333,6.95,13.23,84,0,1.54,DE,2024-06-07
+181,yaiza,28.9633,-13.7631,19.87,78,0,1.54,ES,2024-06-07
+182,kayangel,8.0823,134.7173,28.88,75,100,3.92,PW,2024-06-07
+183,vilyuchinsk,52.9306,158.4028,22.15,43,9,1.96,RU,2024-06-07
+184,christchurch,-43.5333,172.6333,13.01,77,75,4.63,NZ,2024-06-07
+185,ust-nera,64.5667,143.2,13.66,30,56,6.97,RU,2024-06-07
+186,goz beida,13.95,20.55,31.31,19,4,3.08,TD,2024-06-07
+187,ulanhot,46.0833,122.0833,23.09,28,17,3.46,CN,2024-06-07
+188,san patricio,28.017,-97.5169,32.05,63,0,5.81,US,2024-06-07
+189,bull savanna,17.8868,-77.5902,26.23,84,100,4.84,JM,2024-06-07
+190,arno,60.1167,18.6333,11.55,72,100,1.98,SE,2024-06-07
+191,anadyr,64.75,177.4833,4.28,69,75,4.0,RU,2024-06-07
+192,afua,-0.1567,-50.3867,24.63,95,100,2.88,BR,2024-06-07
+193,ixtapa,20.7,-105.2,27.9,79,68,2.24,MX,2024-06-07
+194,meadow lake,34.8014,-106.5436,31.71,28,100,5.33,US,2024-06-07
+195,juan griego,11.0817,-63.9655,27.37,81,6,6.86,VE,2024-06-07
+196,cidreira,-30.1811,-50.2056,17.22,91,8,2.85,BR,2024-06-07
+197,hadibu,12.65,54.0333,28.87,76,60,7.9,YE,2024-06-07
+198,aasiaat,68.7098,-52.8699,0.66,90,100,1.6,GL,2024-06-07
+199,el granada,37.5027,-122.4694,26.94,74,75,4.63,US,2024-06-07
+200,adelaide,-34.9333,138.6,13.69,75,75,3.09,AU,2024-06-07
+201,port mathurin,-19.6833,63.4167,23.55,78,58,8.43,MU,2024-06-07
+202,cabo san lucas,22.8909,-109.9124,30.61,52,40,6.69,MX,2024-06-07
+203,tolanaro,-25.0319,46.9987,19.04,94,20,0.0,MG,2024-06-07
+204,victoria falls,-17.9235,25.843,12.48,32,0,2.75,ZW,2024-06-07
+205,pomoca,19.8815,-100.2998,26.99,37,76,5.98,MX,2024-06-07
+206,malango,-2.9627,119.9001,24.96,70,93,0.79,ID,2024-06-07
+207,lazaro cardenas,17.9583,-102.2,26.84,72,98,3.94,MX,2024-06-07
+208,whitehorse,60.7161,-135.0538,20.57,23,20,3.6,CA,2024-06-07
+209,taulaga,-11.0553,-171.0883,27.91,79,28,6.07,AS,2024-06-07
+210,aripuana,-9.1667,-60.6333,25.59,54,21,0.99,BR,2024-06-07
+211,as sulayyil,20.4607,45.5779,30.14,12,8,1.75,SA,2024-06-07
+212,mirny,62.5353,113.9611,14.44,58,100,1.55,RU,2024-06-07
+213,kartaly,53.0522,60.6467,17.58,85,100,1.3,RU,2024-06-07
+214,saipan,15.1355,145.701,32.39,62,40,6.17,MP,2024-06-07
+215,constantia,44.1833,28.65,17.61,70,0,2.34,RO,2024-06-07
+216,wauchope,-31.45,152.7333,19.42,52,0,1.72,AU,2024-06-07
+217,sitka,57.0531,-135.33,14.94,67,0,2.57,US,2024-06-07
+218,georgetown,5.4112,100.3354,28.96,78,40,1.54,MY,2024-06-07
+219,anna regina,7.2644,-58.5077,26.67,86,100,4.74,GY,2024-06-07
+220,bulgan,48.8125,103.5347,19.18,44,10,1.14,MN,2024-06-07
+221,lamarque,-39.423,-65.7021,14.65,54,100,4.07,AR,2024-06-07
+222,cockburn town,21.4612,-71.1419,27.98,83,75,3.09,TC,2024-06-07
+223,qamdo,31.1667,97.2333,11.36,50,4,1.09,CN,2024-06-07
+224,mahina,-17.5065,-149.489,28.87,74,40,5.14,PF,2024-06-07
+225,fort st. john,56.2499,-120.8529,18.94,19,75,6.69,CA,2024-06-07
+226,metlili chaamba,32.2667,3.6333,28.52,18,0,2.57,DZ,2024-06-07
+227,saint-louis,16.3333,-15.0,30.8,26,0,6.85,SN,2024-06-07
+228,east end,34.5507,-92.341,28.94,66,6,2.8,US,2024-06-07
+229,andovoranto,-18.95,49.1,19.39,90,2,2.14,MG,2024-06-07
+230,mirpur sakro,24.5474,67.6277,28.79,82,0,6.8,PK,2024-06-07
+231,saint-philippe,-21.3585,55.7679,19.77,83,37,3.3,RE,2024-06-07
+232,coahuayana de hidalgo,18.7,-103.6583,26.73,69,6,1.91,MX,2024-06-07
+233,shakhovskaya,56.0283,35.5097,10.86,78,0,2.78,RU,2024-06-07
+234,vredefort,-27.0081,27.3646,5.41,70,0,4.07,ZA,2024-06-07
+235,fernie,49.5,-115.0687,24.38,26,5,1.76,CA,2024-06-07
+236,pawai,24.2667,80.1667,33.4,34,0,3.85,IN,2024-06-07
+237,gadzhiyevo,69.2551,33.3362,8.35,66,100,5.7,RU,2024-06-07
+238,dryden,49.7833,-92.7503,20.16,37,0,6.69,CA,2024-06-07
+239,fisterra,42.9049,-9.2629,15.42,88,100,5.87,ES,2024-06-07
+240,tiksi,71.6872,128.8694,3.46,76,31,3.68,RU,2024-06-07
+241,new norfolk,-42.7826,147.0587,5.72,69,46,1.13,AU,2024-06-07
+242,amahai,-3.3333,128.9167,26.5,86,99,3.21,ID,2024-06-07
+243,iquique,-20.2208,-70.1431,17.02,77,10,0.44,CL,2024-06-07
+244,pierre,44.3683,-100.351,23.51,59,0,5.66,US,2024-06-07
+245,carnarvon,-24.8667,113.6333,23.61,68,29,6.14,AU,2024-06-07
+246,rokytne,51.2796,27.214,14.33,94,100,2.0,UA,2024-06-07
+247,la passe,45.5549,-0.8967,19.13,88,96,4.29,FR,2024-06-07
+248,san pedro pochutla,15.7333,-96.4667,29.84,66,58,1.65,MX,2024-06-07
+249,restrepo,3.822,-76.5224,23.19,97,100,1.96,CO,2024-06-07
+250,aneho,6.2333,1.6,26.19,87,99,3.27,TG,2024-06-07
+251,olonkinbyen,70.9221,-8.7187,1.79,85,100,6.06,SJ,2024-06-07
+252,yeppoon,-23.1333,150.7333,20.7,42,0,1.87,AU,2024-06-07
+253,katabu,-4.9333,122.5167,28.42,73,43,3.04,ID,2024-06-07
+254,galesong,-5.3166,119.3661,26.01,73,26,1.1,ID,2024-06-07
+255,aldama,22.9167,-98.0667,28.37,68,0,4.52,MX,2024-06-07
+256,castillos,-34.1667,-53.8333,13.98,90,98,1.29,UY,2024-06-07
+257,dolinsk,47.35,142.8,21.17,47,100,8.41,RU,2024-06-07
+258,badger,64.8,-147.5333,21.31,30,40,2.57,US,2024-06-07
+259,tazovsky,67.4667,78.7,1.46,90,97,4.91,RU,2024-06-07
+260,sisimiut,66.9395,-53.6735,4.06,82,27,0.8,GL,2024-06-07
+261,fortuna,40.5982,-124.1573,18.85,79,0,6.17,US,2024-06-07
+262,nova sintra,14.8667,-24.7167,24.7,76,73,2.52,CV,2024-06-07
+263,chamba,32.5667,76.1333,24.69,35,58,3.46,IN,2024-06-07
+264,minas de marcona,-15.2119,-75.1103,12.89,85,13,3.3,PE,2024-06-07
+265,sanski most,44.7653,16.6656,18.24,83,9,1.45,BA,2024-06-07
+266,sona,45.4388,10.8255,22.55,80,40,1.54,IT,2024-06-07
+267,caleta olivia,-46.4393,-67.5281,9.27,75,100,1.74,AR,2024-06-07
+268,berdigestyakh,62.0989,126.6992,22.58,35,100,4.68,RU,2024-06-07
+269,port lincoln,-34.7333,135.8667,13.38,76,100,4.12,AU,2024-06-07
+270,trostyanets',50.4784,34.963,13.97,90,100,1.92,UA,2024-06-07
+271,leh,34.1667,77.5833,4.67,58,0,2.11,IN,2024-06-07
+272,irymple,-34.25,142.1667,12.79,68,99,5.23,AU,2024-06-07
+273,rong'an,26.1247,119.1214,28.67,72,74,0.59,CN,2024-06-07
+274,wailua homesteads,22.0669,-159.378,28.25,74,0,5.66,US,2024-06-07
+275,mananjary,-21.2167,48.3333,19.19,90,8,2.02,MG,2024-06-07
+276,rio grande,-32.035,-52.0986,17.06,98,90,3.1,BR,2024-06-07
+277,kailua-kona,19.6406,-155.9956,27.98,84,100,3.6,US,2024-06-07
+278,campbellton,48.0075,-66.6727,13.25,98,0,2.8,CA,2024-06-07
+279,coquimbo,-29.9533,-71.3436,11.85,100,100,1.54,CL,2024-06-07
+280,debark',13.1561,37.8981,15.17,45,29,0.83,ET,2024-06-07
+281,parnu,58.3859,24.4971,10.05,93,100,5.66,EE,2024-06-07
+282,newman,37.3138,-121.0208,36.13,41,55,3.58,US,2024-06-07
+283,fitzgerald,31.7149,-83.2526,30.79,54,40,0.0,US,2024-06-07
+284,bandiagara,14.3501,-3.6104,27.86,59,100,3.78,ML,2024-06-07
+285,las heras,-46.5419,-68.9359,6.49,81,98,7.76,AR,2024-06-07
+286,nemuro,43.3236,145.575,11.65,94,100,6.02,JP,2024-06-07
+287,avanigadda,16.0215,80.9181,29.07,75,100,2.48,IN,2024-06-07
+288,hanzhong,33.0728,107.0303,19.53,86,100,0.98,CN,2024-06-07
+289,ca mau,9.1769,105.15,31.28,60,100,5.02,VN,2024-06-07
+290,antsiranana,-12.2787,49.2917,20.54,87,6,4.04,MG,2024-06-07
+291,kristiansund,63.1115,7.732,10.36,72,20,2.57,NO,2024-06-07
+292,tacna,-18.0056,-70.2483,13.5,94,100,3.09,PE,2024-06-07
+293,sorong,-0.8833,131.25,27.35,83,86,2.94,ID,2024-06-07
+294,gamba,-2.65,10.0,22.11,93,91,1.99,GA,2024-06-07
+295,egilsstadir,65.2653,-14.3948,1.95,75,100,5.14,IS,2024-06-07
+296,chibougamau,49.9168,-74.3659,17.79,72,0,4.12,CA,2024-06-07
+297,howrah,22.5892,88.3103,30.0,74,40,3.09,IN,2024-06-07
+298,queenstown,-31.8976,26.8753,7.28,82,89,1.13,ZA,2024-06-07
+299,dunedin,-45.8742,170.5036,9.89,93,10,0.89,NZ,2024-06-07
+300,melo,-32.3667,-54.1833,17.72,94,100,2.14,UY,2024-06-07
+301,mkuranga,-7.118,39.2078,20.57,89,89,1.74,TZ,2024-06-07
+302,kuta,-8.7233,115.1723,25.97,100,75,0.51,ID,2024-06-07
+303,cochin,9.9399,76.2602,25.99,86,90,3.12,IN,2024-06-07
+304,mangrol,21.1167,70.1167,29.16,75,96,5.77,IN,2024-06-07
+305,pangai,-19.8,-174.35,27.06,50,40,7.2,TO,2024-06-07
+306,tahe,52.3333,124.7333,14.25,45,100,1.98,CN,2024-06-07
+307,soio,-6.1349,12.3689,22.19,90,100,3.77,AO,2024-06-07
+308,colac,-38.3333,143.5833,11.76,75,100,1.47,AU,2024-06-07
+309,yangon,16.8053,96.1561,25.98,94,75,3.6,MM,2024-06-07
+310,paphos,34.7667,32.4167,25.88,61,0,1.03,CY,2024-06-07
+311,mount pearl,47.5166,-52.7813,10.19,91,20,2.06,CA,2024-06-07
+312,mugia,43.1041,-9.2179,15.51,89,100,9.28,ES,2024-06-07
+313,port douglas,-16.4833,145.4667,22.29,57,0,3.05,AU,2024-06-07
+314,dunay,42.8803,132.3375,13.76,85,100,6.73,RU,2024-06-07
+315,zouerate,22.7187,-12.4521,27.05,23,0,6.86,MR,2024-06-07
+316,chudovo,59.1167,31.6833,8.36,76,100,1.19,RU,2024-06-07
+317,poronaysk,49.2167,143.1167,15.76,76,100,3.67,RU,2024-06-07
+318,mount isa,-20.7333,139.5,17.87,52,0,5.66,AU,2024-06-07
+319,saint-denis,48.9167,2.3333,14.52,75,0,2.57,FR,2024-06-07
+320,kosti,13.1629,32.6635,31.21,44,98,6.23,SD,2024-06-07
+321,san agustin de valle fertil,-30.6335,-67.4682,14.08,69,100,1.03,AR,2024-06-07
+322,al bayda,32.7627,21.7551,16.63,97,59,4.5,LY,2024-06-07
+323,peterhead,57.5058,-1.7981,9.22,70,50,9.75,GB,2024-06-07
+324,port-cartier,50.0334,-66.8654,15.12,77,0,3.54,CA,2024-06-07
+325,lorengau,-2.0226,147.2712,28.22,78,99,1.0,PG,2024-06-07
+326,kruisfontein,-34.0033,24.7314,9.94,84,100,1.64,ZA,2024-06-07
+327,tarauaca,-8.1614,-70.7656,25.28,61,42,0.17,BR,2024-06-07
+328,bom despacho,-19.7364,-45.2522,17.74,59,0,1.53,BR,2024-06-07
+329,at taj,24.2049,23.2857,27.57,29,0,4.87,LY,2024-06-07
+330,tekirova,36.5017,30.5272,27.21,38,0,2.5,TR,2024-06-07
+331,gaspe,48.8334,-64.4819,11.12,87,0,2.06,CA,2024-06-07
+332,port saint john's,-31.6229,29.5448,15.35,79,100,2.92,ZA,2024-06-07
+333,prata,-19.3072,-48.9242,20.03,53,0,2.67,BR,2024-06-07
+334,walvis bay,-22.9575,14.5053,19.28,29,13,7.68,NA,2024-06-07
+335,flying fish cove,-10.4217,105.6791,26.82,83,100,5.14,CX,2024-06-07
+336,starke,29.9441,-82.1098,32.83,51,0,4.12,US,2024-06-07
+337,alofi,-19.0595,-169.9187,25.94,61,75,8.23,NU,2024-06-07
+338,mongo,12.1844,18.693,30.26,46,97,2.31,TD,2024-06-07
+339,hengchun,22.0042,120.7439,27.68,83,49,2.54,TW,2024-06-07
+340,magadan,59.5667,150.8,4.74,98,100,1.7,RU,2024-06-07
+341,vadso,70.0744,29.7487,6.49,87,100,10.8,NO,2024-06-07
+342,shiyan,32.6475,110.7781,24.45,64,100,1.48,CN,2024-06-07
+343,trondheim,63.4305,10.3951,9.05,83,47,2.0,NO,2024-06-07
+344,dalandzadgad,43.5708,104.425,26.38,7,99,5.26,MN,2024-06-07
+345,ancud,-41.8697,-73.8203,11.4,96,100,1.01,CL,2024-06-07
+346,ouani,-12.1322,44.4258,25.3,77,2,3.29,KM,2024-06-07
+347,dudinka,69.4058,86.1778,-1.29,96,100,8.05,RU,2024-06-07
+348,beira,-19.8436,34.8389,24.05,88,40,8.23,MZ,2024-06-07
+349,onega,63.9061,38.1404,7.83,96,100,3.33,RU,2024-06-07
+350,tiebo,14.6333,-16.2333,25.06,83,0,4.12,SN,2024-06-07
+351,boca do acre,-8.7522,-67.3978,26.17,66,90,0.52,BR,2024-06-07
+352,senillosa,-39.0,-68.4167,12.88,57,100,2.59,AR,2024-06-07
+353,mocajuba,-2.5842,-49.5072,24.25,96,100,0.85,BR,2024-06-07
+354,santa vitoria do palmar,-33.5189,-53.3681,14.7,96,100,2.25,BR,2024-06-07
+355,rio preto da eva,-2.6994,-59.6997,24.84,84,100,1.4,BR,2024-06-07
+356,champerico,14.3,-91.9167,29.3,85,100,3.97,GT,2024-06-07
+357,urengoy,65.9667,78.3667,5.75,77,100,3.72,RU,2024-06-07
+358,kikwit,-5.041,18.8162,23.72,68,31,0.28,CD,2024-06-07
+359,piranshahr,36.701,45.1413,15.5,46,0,1.4,IR,2024-06-07
+360,aubigny-sur-nere,47.4882,2.439,10.61,82,95,2.5,FR,2024-06-07
+361,nema,57.5067,50.5011,12.97,84,98,2.25,RU,2024-06-07
+362,zhongxiang,31.1661,112.5831,26.92,54,38,2.52,CN,2024-06-07
+363,smara,26.7384,-11.6719,21.37,73,0,4.17,EH,2024-06-07
+364,sungai raya,0.7,108.9,27.32,82,66,2.95,ID,2024-06-07
+365,mount gambier,-37.8333,140.7667,13.85,63,99,2.32,AU,2024-06-07
+366,ola,59.5833,151.2833,5.08,97,100,1.86,RU,2024-06-07
+367,manokwari,-0.8667,134.0833,28.54,70,31,1.06,ID,2024-06-07
+368,belozersk,60.0326,37.7957,9.43,96,100,3.13,RU,2024-06-07
+369,zhangzhou,24.5133,117.6556,24.96,81,71,0.74,CN,2024-06-07
+370,lodwar,3.1191,35.5973,28.95,46,20,4.88,KE,2024-06-07
+371,bereznik,62.8551,42.7072,14.19,76,100,2.24,RU,2024-06-07
+372,mazouna,36.1223,0.8987,21.92,74,4,3.45,DZ,2024-06-07
+373,kutum,14.2,24.6667,27.96,14,96,2.56,SD,2024-06-07
+374,kerikeri,-35.2268,173.9474,18.28,95,100,1.79,NZ,2024-06-07
+375,santana,-0.0583,-51.1817,27.1,89,100,1.54,BR,2024-06-07
+376,akarp,58.2333,13.65,7.91,98,35,2.5,SE,2024-06-07
+377,shchuchyn,53.6014,24.7465,12.18,93,82,1.71,BY,2024-06-07
+378,wad medani,14.4012,33.5199,32.55,38,36,4.32,SD,2024-06-07
+379,karwar,14.8,74.1333,25.82,91,100,3.46,IN,2024-06-07
+380,sterling,39.0062,-77.4286,25.44,49,0,7.72,US,2024-06-07
+381,posadas,-27.3671,-55.8961,19.0,82,13,2.24,AR,2024-06-07
+382,mazara del vallo,37.6641,12.588,19.97,70,0,3.08,IT,2024-06-07
+383,hirara,24.8,125.2833,27.92,100,75,7.2,JP,2024-06-07
+384,okha,53.5739,142.9478,4.58,90,100,0.89,RU,2024-06-07
+385,jayapura,-2.5333,140.7,28.66,63,100,0.78,ID,2024-06-07
+386,nantucket,41.2835,-70.0995,17.06,99,100,3.09,US,2024-06-07
+387,polyarnyy,69.1989,33.4478,8.63,65,98,4.74,RU,2024-06-07
+388,afaahiti,-17.75,-149.2833,27.93,82,25,3.8,PF,2024-06-07
+389,taksimo,56.3444,114.8794,5.53,97,100,1.49,RU,2024-06-07
+390,xam nua,20.4197,104.0439,23.49,89,100,0.63,LA,2024-06-07
+391,ko pha ngan,9.7578,100.0291,26.38,73,100,7.96,TH,2024-06-07
+392,hastings,50.8552,0.5729,13.62,91,0,5.46,GB,2024-06-07
+393,weno,7.4515,151.8468,28.85,79,21,6.66,FM,2024-06-07
+394,jiashan,30.8492,120.9258,25.57,71,45,0.6,CN,2024-06-07
+395,tekkali,18.6167,84.2333,29.1,77,100,3.11,IN,2024-06-07
+396,cozumel,20.5083,-86.9458,28.3,81,15,3.75,MX,2024-06-07
+397,santa marta de ortigueira,43.6833,-7.85,16.73,96,100,0.89,ES,2024-06-07
+398,prince albert,53.2001,-105.7677,7.97,93,100,5.14,CA,2024-06-07
+399,suva,-18.1416,178.4415,26.71,74,75,5.14,FJ,2024-06-07
+400,loa janan,-0.583,117.095,26.49,85,99,1.16,ID,2024-06-07
+401,tralee,52.2704,-9.7026,11.39,88,100,4.11,IE,2024-06-07
+402,ma'rib,15.4591,45.3253,26.23,13,2,1.89,YE,2024-06-07
+403,kuala belait,4.5833,114.1833,28.09,84,98,1.58,BN,2024-06-07
+404,kencong,-8.2833,113.3667,25.74,82,84,1.08,ID,2024-06-07
+405,chonchi,-42.6128,-73.8092,12.56,98,100,1.1,CL,2024-06-07
+406,bani suwayf,29.0744,31.0979,28.18,45,0,5.44,EG,2024-06-07
+407,guajara,-2.9667,-57.6667,25.85,80,87,1.1,BR,2024-06-07
+408,formosa,-26.1775,-58.1781,22.2,82,24,2.57,AR,2024-06-07
+409,ayios konstandinos,38.6333,21.4,22.51,58,0,1.19,GR,2024-06-07
+410,hilo,19.7297,-155.09,27.92,74,100,5.14,US,2024-06-07
+411,birjand,32.8663,59.2211,15.26,18,0,2.06,IR,2024-06-07
+412,karaidel',55.8337,56.9069,13.51,97,100,3.82,RU,2024-06-07
+413,tugulym,57.0591,64.6425,12.04,89,100,3.33,RU,2024-06-07
+414,roscrea,52.9511,-7.8017,10.93,87,100,4.19,IE,2024-06-07
+415,praya,14.9215,-23.5087,22.69,81,4,5.54,CV,2024-06-07
+416,muriti,-1.9833,32.9167,23.58,68,66,4.84,TZ,2024-06-07
+417,lospalos,-8.5186,127.0025,22.85,79,45,5.2,TL,2024-06-07
+418,neryungri,56.6709,124.6491,15.1,46,22,2.91,RU,2024-06-07
+419,ambon,-3.6954,128.1814,27.15,15,40,2.57,ID,2024-06-07
+420,slave lake,55.2834,-114.769,10.99,82,100,4.12,CA,2024-06-07
+421,hoi an,15.8794,108.335,28.98,78,100,2.96,VN,2024-06-07
+422,dul'durga,50.6761,113.5931,16.24,36,1,7.01,RU,2024-06-07
+423,preobrazheniye,42.9019,133.9064,17.78,71,100,2.34,RU,2024-06-07
+424,kavaratti,10.5669,72.642,27.31,85,100,5.79,IN,2024-06-07
+425,anqing,30.5092,117.0506,26.67,63,74,1.35,CN,2024-06-07
+426,los angeles,34.0522,-118.2437,28.34,68,0,5.66,US,2024-06-07
+427,chelak,39.9203,66.8611,17.42,32,0,2.77,UZ,2024-06-07
+428,plastun,44.7561,136.2939,20.53,54,100,2.87,RU,2024-06-07
+429,los alamos,35.8881,-106.307,30.31,18,75,3.6,US,2024-06-07
+430,rabo de peixe,37.8,-25.5833,17.77,99,20,2.06,PT,2024-06-07
+431,warman,52.3168,-106.5679,16.95,51,100,10.8,CA,2024-06-07
+432,stephenville,32.2207,-98.2023,32.07,45,0,4.12,US,2024-06-07
+433,hegang,47.4,130.3667,19.9,59,100,7.61,CN,2024-06-07
+434,barabai,-2.5833,115.3833,26.63,84,100,0.3,ID,2024-06-07
+435,staryye ozinki,51.1786,49.6769,17.62,88,39,3.64,RU,2024-06-07
+436,belmonte,-15.8631,-38.8828,23.17,86,17,2.8,BR,2024-06-07
+437,swakopmund,-22.6833,14.5333,19.75,33,26,8.51,NA,2024-06-07
+438,berber,18.0216,33.983,35.08,16,6,3.47,SD,2024-06-07
+439,caleta de carquin,-11.0925,-77.6267,18.9,80,29,3.71,PE,2024-06-07
+440,pariaman,-0.619,100.12,27.03,83,100,1.39,ID,2024-06-07
+441,khandyga,62.6667,135.6,19.88,46,1,1.35,RU,2024-06-07
+442,phalodi,27.1333,72.3667,30.43,53,1,6.81,IN,2024-06-07
+443,zag,46.9441,99.165,17.13,23,100,0.76,MN,2024-06-07
+444,holualoa,19.6228,-155.9522,25.91,79,100,3.6,US,2024-06-07
+445,mawu,29.5923,107.3139,19.82,86,99,0.65,CN,2024-06-07
+446,penaranda de bracamonte,40.9011,-5.2003,16.21,84,100,3.76,ES,2024-06-07
+447,ribeira brava,32.65,-17.0667,21.11,85,43,2.24,PT,2024-06-07
+448,pontianak,-0.0333,109.3333,25.99,94,20,1.03,ID,2024-06-07
+449,dori,14.0354,-0.0345,31.69,36,88,3.35,BF,2024-06-07
+450,klyuchi,52.2667,79.1667,19.04,81,16,5.12,RU,2024-06-07
+451,tual,-5.6667,132.75,26.84,79,82,9.95,ID,2024-06-07
+452,uturoa,-16.7333,-151.4333,26.35,80,2,3.45,PF,2024-06-07
+453,macheng,31.1783,115.0319,26.72,64,100,0.34,CN,2024-06-07
+454,palmer,42.1584,-72.3287,21.34,65,100,7.2,US,2024-06-07
+455,paradip garh,20.3167,86.6167,29.91,78,100,7.67,IN,2024-06-07
+456,chadan,51.2833,91.5833,18.37,51,0,0.51,RU,2024-06-07
+457,neelankarai,12.9455,80.2575,27.03,88,40,2.57,IN,2024-06-07
+458,tindouf,27.6711,-8.1474,24.25,38,0,9.26,DZ,2024-06-07
+459,sandnessjoen,66.0217,12.6316,5.29,72,94,3.11,NO,2024-06-07
+460,rizhao,35.4275,119.4553,26.11,52,100,3.81,CN,2024-06-07
+461,cruzeiro do sul,-29.5128,-51.9853,19.73,89,16,1.14,BR,2024-06-07
+462,westport,41.1415,-73.3579,22.87,65,75,8.23,US,2024-06-07
+463,severo-yeniseyskiy,60.3725,93.0408,11.14,59,100,4.23,RU,2024-06-07
+464,hesla,24.0667,85.8833,33.2,28,4,4.52,IN,2024-06-07
+465,santiago de cao,-7.9589,-79.2392,17.07,94,100,4.63,PE,2024-06-07
+466,puerto armuelles,8.2833,-82.8667,27.99,72,100,1.79,PA,2024-06-07
+467,port moresby,-9.4431,147.1797,28.68,79,75,5.14,PG,2024-06-07
+468,port hedland,-20.3167,118.5667,20.03,37,5,5.66,AU,2024-06-07
+469,alpena,45.0617,-83.4327,14.5,90,100,4.12,US,2024-06-07
+470,iwanai,42.9744,140.5089,23.89,53,88,1.41,JP,2024-06-07
+471,bubaque,11.2833,-15.8333,26.52,76,84,6.65,GW,2024-06-07
+472,greenville,35.6127,-77.3663,28.09,56,0,0.0,US,2024-06-07
+473,palasa,18.7667,84.4167,29.14,79,100,4.1,IN,2024-06-07
+474,akureyri,65.6835,-18.0878,1.96,93,100,10.29,IS,2024-06-07
+475,aioun,16.6614,-9.6149,34.35,26,94,7.96,MR,2024-06-07
+476,leiston,52.2061,1.5776,12.72,85,100,4.82,GB,2024-06-07
+477,calbuco,-41.768,-73.1273,13.56,92,100,2.7,CL,2024-06-07
+478,walterboro,32.9052,-80.6668,29.41,65,0,0.0,US,2024-06-07
+479,namie,37.4833,141.0,24.84,69,100,0.45,JP,2024-06-07
+480,nova vicosa,-17.8919,-39.3719,23.61,80,4,2.42,BR,2024-06-07
+481,fuxin,42.0156,121.6589,21.59,63,15,4.92,CN,2024-06-07
+482,churu,28.3,74.95,31.36,30,73,2.6,IN,2024-06-07
+483,buncrana,55.1333,-7.45,9.49,76,100,6.25,IE,2024-06-07
+484,tabou,4.423,-7.3528,25.58,87,91,4.12,CI,2024-06-07
+485,pascagoula,30.3658,-88.5561,34.03,59,0,2.06,US,2024-06-07
+486,kotabumi,-4.8333,104.9,26.46,83,63,1.61,ID,2024-06-07
+487,florence,43.7667,11.25,18.5,81,0,2.06,IT,2024-06-07
+488,inarajan village,13.2736,144.7484,30.55,86,35,5.31,GU,2024-06-07
+489,kidal,18.4411,1.4078,34.03,24,0,5.34,ML,2024-06-07
+490,borskoye,53.0333,51.7167,17.23,95,99,1.93,RU,2024-06-07
+491,oakdale,44.963,-92.9649,24.68,30,0,4.63,US,2024-06-07
+492,northam,51.0333,-4.2167,12.56,91,100,5.09,GB,2024-06-07
+493,mogadishu,2.0371,45.3438,26.05,86,99,8.47,SO,2024-06-07
+494,muisne,0.6,-80.0333,24.73,85,100,1.58,EC,2024-06-07
+495,guercif,34.2257,-3.3536,22.17,61,100,2.07,MA,2024-06-07
+496,uttar char fasson,22.2332,90.7132,29.74,84,100,6.02,BD,2024-06-07
+497,berezovyy,51.6667,135.7,5.95,94,100,1.53,RU,2024-06-07
+498,oriximina,-1.7656,-55.8661,25.46,87,100,1.99,BR,2024-06-07
+499,ganjam,19.3833,85.0667,29.24,80,99,6.15,IN,2024-06-07
+500,puri,19.8,85.85,27.94,86,100,9.03,IN,2024-06-07
+501,nchelenge,-9.3451,28.734,15.91,49,1,2.81,ZM,2024-06-07
+502,yanykurgan,43.915,67.2481,25.33,42,13,2.53,KZ,2024-06-07
+503,tyukhtet,56.5389,89.3011,15.49,95,100,2.38,RU,2024-06-07
+504,disina,11.4814,9.919,26.25,69,100,6.43,NG,2024-06-07
+505,lupane,-18.9315,27.807,9.83,32,0,2.81,ZW,2024-06-07
+506,ocean city,39.2776,-74.5746,27.1,50,98,3.53,US,2024-06-07
+507,atar,20.5169,-13.0499,30.63,15,0,3.31,MR,2024-06-07
+508,petukhovo,55.0692,67.9019,14.39,92,38,3.29,RU,2024-06-07
+509,kindu,-2.95,25.95,21.26,79,5,0.44,CD,2024-06-07
+510,broken hill,-31.95,141.4333,11.71,66,63,4.4,AU,2024-06-07
+511,sarmiento,-45.5882,-69.07,8.75,73,100,4.04,AR,2024-06-07
+512,tamanrasset,22.785,5.5228,25.95,19,0,2.06,DZ,2024-06-07
+513,shitanjing,39.2342,106.3439,22.15,23,100,1.96,CN,2024-06-07
+514,pueblo nuevo,23.3833,-105.3833,19.16,55,0,0.76,MX,2024-06-07
+515,ekangala,-25.6962,28.7492,6.36,72,0,6.05,ZA,2024-06-07
+516,shimoda,34.6667,138.95,24.5,62,0,4.21,JP,2024-06-07
+517,kiunga,-6.1219,141.2906,25.11,95,100,0.68,PG,2024-06-07
+518,posto fiscal rolim de moura,-13.0833,-62.2667,23.66,55,0,0.39,BR,2024-06-07
+519,malmesbury,-33.4608,18.7271,9.67,76,83,1.6,ZA,2024-06-07
+520,kobilje,46.6847,16.3978,18.15,94,100,1.94,SI,2024-06-07
+521,ocean shores,46.9737,-124.1563,23.49,74,0,4.63,US,2024-06-07
+522,americana,-22.7392,-47.3314,20.61,54,0,2.17,BR,2024-06-07
+523,tromso,69.6496,18.957,8.01,87,100,3.6,NO,2024-06-07
+524,san sebastian de la gomera,28.0916,-17.1133,21.88,77,0,1.03,ES,2024-06-07
+525,sulak,43.2734,47.5146,22.29,73,26,4.53,RU,2024-06-07
+526,codrington,-38.2667,141.9667,12.2,78,100,1.28,AU,2024-06-07
+527,fada,9.5667,8.3,20.1,95,95,2.46,NG,2024-06-07
+528,tete,-16.1564,33.5867,17.05,63,0,0.0,MZ,2024-06-07
+529,brookings,44.3114,-96.7984,20.62,68,20,2.06,US,2024-06-07
+530,antofagasta,-23.65,-70.4,15.6,85,8,1.5,CL,2024-06-07
+531,wawarsing,41.759,-74.3574,18.73,76,40,2.52,US,2024-06-07
+532,kuanda,56.3161,116.0806,6.91,91,100,1.54,RU,2024-06-07
+533,aoulef,26.9667,1.0833,35.61,11,0,5.04,DZ,2024-06-07
+534,jacksonville,30.3322,-81.6556,33.12,58,20,2.57,US,2024-06-07
+535,daru,-9.0763,143.2092,26.37,87,60,5.67,PG,2024-06-07
+536,san mariano,7.5,126.0,28.36,73,17,1.27,PH,2024-06-07
+537,kurduvadi,18.0833,75.4333,24.69,79,100,2.52,IN,2024-06-07
+538,gornopravdinsk,60.05,69.9,10.46,92,54,1.99,RU,2024-06-07
+539,santa eularia des riu,38.9846,1.5341,23.95,57,0,6.69,ES,2024-06-07
+540,balcarce,-37.8462,-58.2552,11.57,89,100,1.86,AR,2024-06-07
+541,tongouson,5.0214,120.1328,28.32,75,100,0.83,PH,2024-06-07
+542,kangding,30.0513,101.9603,14.61,92,94,1.57,CN,2024-06-07
+543,melekeok village,7.4957,134.6367,32.31,74,75,3.6,PW,2024-06-07
+544,chojnice,53.6955,17.557,8.15,92,15,1.69,PL,2024-06-07
+545,kampong pangkal kalong,5.9167,102.2167,25.88,90,98,1.24,MY,2024-06-07
+546,sinop,41.7711,34.8709,16.74,59,100,1.1,TR,2024-06-07
+547,zhangye,38.9342,100.4517,22.8,30,100,0.53,CN,2024-06-07
+548,gobernador virasora,-28.05,-56.0333,19.44,96,5,0.89,AR,2024-06-07
+549,argo,37.6333,22.7333,23.88,50,0,2.47,GR,2024-06-07
