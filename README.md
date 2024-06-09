@@ -84,8 +84,10 @@ Your main tasks will be to use the Geoapify API and the geoViews Python library 
 To succeed on this deliverable of the assignment, open the VacationPy.ipynb starter code and complete the following steps:
 
 1. Create a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point should be the humidity in each city.
+   
 
 <img width="574" alt="image" src="https://github.com/thaychansy/python-api-challenge/assets/161902555/3803907e-2466-4993-913a-b3018af50e7f">
+
   
 2. Narrow down the city_data_df DataFrame to find your ideal weather condition. For example:
 
