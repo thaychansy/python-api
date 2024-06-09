@@ -41,8 +41,6 @@ To get started, the code required to generate random geographic coordinates and 
 ### Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude
 To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve weather data from the cities list generated in the starter code. Next, you'll create a series of scatter plots to showcase the following relationships:
 
-<img width="574" alt="image" src="https://github.com/thaychansy/python-api-challenge/assets/161902555/3803907e-2466-4993-913a-b3018af50e7f">
-
 - Latitude vs. Temperature
 
 - Latitude vs. Humidity
@@ -87,6 +85,8 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 
 1. Create a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point should be the humidity in each city.
 
+<img width="574" alt="image" src="https://github.com/thaychansy/python-api-challenge/assets/161902555/3803907e-2466-4993-913a-b3018af50e7f">
+  
 2. Narrow down the city_data_df DataFrame to find your ideal weather condition. For example:
 
 - A max temperature lower than 27 degrees but higher than 21
