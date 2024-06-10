@@ -9,7 +9,7 @@
   <summary>Table of Contents</summary>
 <ol>
 <li><a href="#about-the-project">About The Project</a></li>
-<li><a href="#built-with-python-and-flask-framework">Build With Python and Jupyter Notebook Framework</a></li>
+<li><a href="#built-with-python-and-jupyter-framework">Build With Python and Jupyter Notebook Framework</a></li>
 <li><a href="#contributing">Contributing (UC Berkeley Bootcamp Students Only) </a></li>
 <li><a href="#contact">Contact</a></li>
 <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -104,7 +104,7 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
   
   
-<!-- Build With Python and Jupyter Notebook Framework -->
+<!-- BUILT-WITH-PYTHON-AND-JUPYTER-FRAMEWORK -->
 ## Built with Python and Jupyter Notebook Framework 
 
 Python Citipy Library, OpenWeatherMapAPI, and Juypter Notebook platform was the framework used for this project.
