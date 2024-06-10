@@ -218,7 +218,7 @@ Project Link: [thaychansy/python-api-challenge: Module 6 Challenge (github.com)]
 
   
 
-Here's a list resources we found helpful and would like to give credit to. 
+Here's a list of resources we found helpful and would like to give credit to. 
 
   
 * [Chat GPT] [ChatGPT](https://chatgpt.com/)
