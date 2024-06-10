@@ -9,7 +9,7 @@
   <summary>Table of Contents</summary>
 <ol>
 <li><a href="#about-the-project">About The Project</a></li>
-<li><a href="#built-with-python-and-jupyter-framework">Build With Python and Jupyter Notebook Framework</a></li>
+<li><a href="#built-with-python-and-jupyter-notebook-framework">Build With Python and Jupyter Notebook Framework</a></li>
 <li><a href="#contributing">Contributing (UC Berkeley Bootcamp Students Only) </a></li>
 <li><a href="#contact">Contact</a></li>
 <li><a href="#acknowledgments">Acknowledgments</a></li>
