@@ -86,7 +86,8 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 1. Create a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point should be the humidity in each city.
    
 
-<img width="574" alt="image" src="https://github.com/thaychansy/python-api-challenge/assets/161902555/3803907e-2466-4993-913a-b3018af50e7f">
+![image](https://github.com/thaychansy/python-api-challenge/assets/161902555/1a1de2dd-9368-407e-a698-386dd755171d)
+
 
   
 2. Narrow down the city_data_df DataFrame to find your ideal weather condition. For example:
@@ -96,6 +97,9 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 - Wind speed less than 4.5 m/s
 
 - Zero cloudiness
+
+  ![image](https://github.com/thaychansy/python-api-challenge/assets/161902555/14de6b71-beee-4873-bdfa-27d22a495e0f)
+
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
   
