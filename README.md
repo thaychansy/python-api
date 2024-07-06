@@ -204,7 +204,7 @@ Please visit my Portfolio Page: thaychansy.github.io (https://thaychansy.github.
 
 
 
-Project Link: [thaychansy/python-api-challenge (github.com)](https://github.com/thaychansy/python-api-challenge)
+Project Link: [thaychansy/python-api-challenge](https://github.com/thaychansy/python-api-challenge)
   
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
