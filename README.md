@@ -52,7 +52,7 @@ To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve 
 ### Requirement 2: Compute Linear Regression for Each Relationship
 You should create the following plots:
 
-<kbd> <img width="800" alt="image" src="https://github.com/thaychansy/python-api-challenge/assets/161902555/928d1872-1a6e-406b-ac0a-e3877db4dd73"> </kbd>
+<kbd> <img width="900" alt="image" src="https://github.com/thaychansy/python-api-challenge/assets/161902555/928d1872-1a6e-406b-ac0a-e3877db4dd73"> </kbd>
 
 
 - Northern Hemisphere: Temperature vs. Latitude
