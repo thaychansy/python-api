@@ -52,7 +52,7 @@ To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve 
 ### Requirement 2: Compute Linear Regression for Each Relationship
 You should create the following plots:
 
-<img width="278" alt="image" src="https://github.com/thaychansy/python-api-challenge/assets/161902555/928d1872-1a6e-406b-ac0a-e3877db4dd73">
+<kbd> <img width="800" alt="image" src="https://github.com/thaychansy/python-api-challenge/assets/161902555/928d1872-1a6e-406b-ac0a-e3877db4dd73"> </kbd>
 
 
 - Northern Hemisphere: Temperature vs. Latitude
@@ -86,7 +86,7 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 1. Create a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point should be the humidity in each city.
    
 
-![image](https://github.com/thaychansy/python-api-challenge/assets/161902555/1a1de2dd-9368-407e-a698-386dd755171d)
+<kbd> ![image](https://github.com/thaychansy/python-api-challenge/assets/161902555/1a1de2dd-9368-407e-a698-386dd755171d) </kbd>
 
 
   
@@ -98,7 +98,7 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 
 - Zero cloudiness
 
-  ![image](https://github.com/thaychansy/python-api-challenge/assets/161902555/14de6b71-beee-4873-bdfa-27d22a495e0f)
+  <kbd> ![image](https://github.com/thaychansy/python-api-challenge/assets/161902555/14de6b71-beee-4873-bdfa-27d22a495e0f) </kbd>
 
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
